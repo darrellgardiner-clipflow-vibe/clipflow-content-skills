@@ -1,7 +1,7 @@
 {
   "name": "clipflow-content",
-  "version": "2.1.0",
-  "description": "Turn a business's own videos, recordings and posts into a brand brief, a week plan and finished posts in their voice, with an optional Clipflow connector.",
+  "version": "2.2.0",
+  "description": "Plan next week's content from your website and existing posts. See what to reuse, what to make first and what to write. Recordings and supplied files also work.",
   "author": {
     "name": "Clipflow"
   },

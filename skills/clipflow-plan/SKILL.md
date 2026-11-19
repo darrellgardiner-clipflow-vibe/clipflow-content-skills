@@ -1,8 +1,8 @@
 ---
 name: clipflow-plan
 metadata:
-  version: "2.1.0"
-description: Plan a sustainable posting rhythm and week of content from a business owner's material, with recurring editorial slots, supported ideas, production tasks and an ask when useful. Use when someone asks what to post this week, wants a content plan or calendar, or wants ideas pulled out of a video, call or transcript.
+  version: "2.2.0"
+description: Choose what to post and what to make first for a specific week from the owner's website, past posts, recordings and existing calendar. Use for a feasible content plan, a recurring posting rhythm or ideas supported by material the owner already has.
 ---
 
 # Plan a week they can actually make
@@ -27,13 +27,21 @@ from an agreed change to the routine.
 
 ## 2. Mine ideas from the material
 
-Go back through the transcripts with [finding ideas](references/finding-ideas.md)
+Go back through the source pages, posts and transcripts with [finding ideas](references/finding-ideas.md)
 and add supported ideas to `content/ideas.md`. Aim for 10 to 15 when the material
 supports it; keep fewer when it does not. Read earlier ideas first, including
 unused material, unfinished posts and older pieces worth updating. Write each
 as a hook, not a topic:
 "Why your neck hurts more on Fridays", not "Neck pain". Tag each with where it
-comes from, down to the timestamps.
+comes from, down to the section, post passage or verified timestamps.
+
+On a website, look for a buying question in the FAQ, a choice the service
+page helps a customer make, or a useful explanation buried in an article.
+Pair each idea with the actual answer and the reader it serves. A website
+FAQ establishes the published answer. Only call a question common when the
+source supports its frequency. When the
+source is already a public post, say what changes for the reader this time
+(a different question, an updated answer, or a useful adaptation).
 
 Look hardest for moments you can clip as they are: 20 to 60 seconds where they
 answer one question or tell one story, and it makes sense if it's the first
@@ -66,7 +74,9 @@ label the reuse and count its extra work. Format follows the material:
 - Steps, a list, a before and after, a comparison: carousel.
 - An opinion with a reason, aimed at other professionals: text post (LinkedIn, Facebook).
 
-Post where they already post. Don't add platforms they didn't mention.
+Use the requested account or a verified existing channel. If neither is known,
+give a channel-neutral draft or label a proposed channel as an assumption.
+Finding a linked social profile doesn't establish a posting commitment.
 
 ## 4. Fit it to their time
 
@@ -95,6 +105,13 @@ the concrete to-do and the ask when useful. Link each piece to its regular post
 or mark it as a one-off. Give checked trim points for clips. Mark selected ideas
 as planned in `ideas.md`; update produced/published only when actually known.
 
+Plan the requested week. For "next week", use the upcoming week in the owner's
+local calendar when known. Mark days as proposals unless already committed.
+Lead with **Make this first**, the specific action to take and why that post
+goes first. Show the total remaining time alongside the budget. If an asset
+or approval is missing, choose an actionable first piece or name the single
+dependency to resolve. A web page supplies words, not footage to trim.
+
 Add two or three supported backups when available, and a **Next time you film**
 list of useful questions for their next recording session. Pick them to fill
 the brief's gaps (no reviews,
@@ -111,5 +128,5 @@ Planning alone does not schedule anything in Clipflow.
 If planning was the last step, give the handover from
 [clipflow-content](../clipflow-content/SKILL.md): the week in one line per post
 and what they need to do. If writing was requested, continue to
-[clipflow-write](../clipflow-write/SKILL.md) for every supported piece in the week. Leave unresolved recurring posts as
+[clipflow-write](../clipflow-write/SKILL.md) for the requested piece(s). Leave unresolved recurring posts as
 sourcing tasks rather than inventing copy to fill them.

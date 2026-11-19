@@ -1,15 +1,15 @@
 ---
 name: clipflow-write
 metadata:
-  version: "2.0.0"
-description: Write finished, ready-to-post content in a business owner's own voice from their recordings and brief, covering reel and short video scripts, clips cut from existing footage, on-screen text, carousels, captions and text posts, plus articles, emails and sales copy. Use when someone asks to write a post, script, caption or carousel, to turn part of a video into a post, or to edit a draft.
+  version: "2.2.0"
+description: Draft or edit the requested post from a website passage, past post, recording or plan. Use for a first draft, a caption, carousel, talking script, article or email, or to turn real footage into a clip.
 ---
 
 # Write the post
 
 The owner should be able to film or paste what you hand them without rewriting
 it. That means their words, a first line that works on a stranger, a body that
-pays off the hook, one clear ask, and every field the format needs.
+pays off the hook, the intended ask when there is one, and the fields the format needs.
 
 Read `content/brief.md` and the post's entry in `content/week-plan.md` if they
 exist. For a one-off request, read whatever they gave you; you don't need a
@@ -19,10 +19,13 @@ post template in [files](../clipflow-content/references/files.md).
 
 ## 1. Go back to the source
 
-Open the transcript at the timestamps the plan points to and read a minute on
-either side. The owner's own sentences are the best copy you have. Lift them,
-trim them, reorder them, and only write new lines to connect or clarify.
-Check every fact in the post against what they said.
+Open the plan's source. For a page or post, read the cited passage in context
+and check the byline. For a recording, read a minute either side of the clip.
+Use the account's own phrasing and the approved voice examples in its brief.
+Paraphrase company copy for the reader's question. Only put first-person
+stories or direct quotations in a speaker's mouth when that speaker is the
+source. Label a script based on an article as a new recording. Check every
+public claim against the passage and keep source tags in the notes.
 
 ## 2. Write three hooks and pick one
 

@@ -1,8 +1,8 @@
 ---
 name: clipflow-brand
 metadata:
-  version: "2.0.0"
-description: Read a business owner's recordings, transcripts, past posts and notes and write a one-page brand brief, covering what they sell, who to, the questions customers ask, their stories, their proof and how they actually talk. Use before planning or writing content, when someone asks "work out my brand" or "learn how I talk", or when new material should update an existing brief.
+  version: "2.2.0"
+description: Build or refresh a working brand profile from a business website, a founder's public account, posts or supplied files. Use to understand the offer, likely buyers (ICP), usable proof, voice and visual examples before planning or writing.
 ---
 
 # Write the brand brief
@@ -18,8 +18,11 @@ and follow the [ground rules](../clipflow-content/references/ground-rules.md).
 
 ## 1. Read everything once, all the way through
 
-Read each transcript and post in full before writing anything. On the way,
-note with tags and timestamps:
+For links, start with the [public-link intake](../clipflow-content/references/getting-material.md#public-links).
+Identify the business, speaker and publishing account. A company homepage can
+establish its offer. A bylined post can establish what that person said.
+Read the relevant pages, transcripts and posts before writing. Note with
+source tags and a section, passage or timestamp:
 
 - **Customer questions.** Any time they say "people always ask", "the question
   I get", "a lot of clients think", or answer a question from a caller or
@@ -60,6 +63,13 @@ Fill [the brief template](../clipflow-content/references/files.md) in
 `content/brief.md`. Keep each section to the few lines that a writer would
 actually use. Put customer questions in the customer's words.
 
+For a weekly plan, a few tagged lines on the reader, offer, voice and usable
+proof belong in the brief. Link any existing brand files that already cover
+them. When the owner asks for a full brand profile, use [the five brand
+documents](references/profile.md) and link them from the brief. If they only
+ask for their ideal customer profile, write the audience document. A single
+caption request can go straight to writing.
+
 Write down the gaps honestly: no reviews supplied, no prices mentioned, only
 one recording. For each gap, write a question they could answer on camera in a
 minute to fill it. Those questions feed the plan's "Next time you film" list.
@@ -67,9 +77,10 @@ minute to fill it. Those questions feed the plan's "Next time you film" list.
 ## 4. Updating an existing brief
 
 When new material arrives, add what's new and change only what it changes.
-Put the date and the source next to anything updated. If something new
-contradicts the brief (a new price, a dropped service), use the newer one and
-note the change. Keep anything the owner wrote or corrected themselves.
+Put the date and source next to each change. A page fetched today can still
+describe an old offer. When sources conflict, use an explicitly current,
+owner-confirmed detail or leave the disputed claim out and ask if it matters
+to this week. Preserve the owner's corrections.
 
 ## Hand back
 

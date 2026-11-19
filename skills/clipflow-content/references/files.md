@@ -5,6 +5,7 @@ Everything lives in one `content/` folder (or the folder the owner names):
 ```text
 content/
   brief.md          who they are, who they sell to, how they talk
+  brand/            reusable profile documents when requested
   ideas.md          every post idea found so far, kept between weeks
   week-plan.md      this week's posts and what to do for each
   posts/
@@ -24,7 +25,7 @@ new ideas to the bottom of `ideas.md`, and start a new dated section in
 Give each source a short tag and list it in `sources.md`:
 
 ```markdown
-| Tag | What it is | Date | File |
+| Tag | What it is | Date | File or URL + passage |
 |---|---|---|---|
 | S1 | Instagram Live, "Desk neck Q&A" | 2026-10-02 | sources/live-desk-neck.md |
 | S2 | 12 past Instagram captions | 2026-08 to 2026-11 | sources/past-posts.md |
@@ -32,7 +33,10 @@ Give each source a short tag and list it in `sources.md`:
 ```
 
 Point at sources like `[S1 12:40]` or `[S1 12:40-13:55]` for transcripts,
-`[S2]` for documents, `[Interview Q3]` and `[Owner]`. Tags go in the brief, the
+`[S2, Booking FAQ]` for a page section or `[S2, opening paragraph]` for a
+post, `[Interview Q3]` and `[Owner]`. For links, include the author/account,
+date read and a short excerpt or locator. Mark inaccessible links separately
+from sources used. Tags go in the brief, the
 plan and the notes under each post. They never go inside copy that will be posted.
 
 ## brief.md
@@ -61,7 +65,8 @@ Numbers, results, reviews and credentials they actually gave you, with tags.
 Things a post might want to say that the material doesn't support.
 
 ## How they talk
-3 to 6 observations, each with a real line of theirs as the example.
+Use only the voice samples you have. Pair each observation with a real line
+from that speaker or account.
 Phrases they use:
 Words or styles they'd never use:
 
@@ -89,20 +94,22 @@ What you couldn't find, and the question to answer on camera to fill it.
 
 ```markdown
 # Week of <date>
+Make this first: <post, next action and reason>.
+Remaining work: <estimated total minutes> of <available minutes>.
 Time this week: <what they said, or your assumption>. Posting to: <accounts/platforms>.
 Rhythm: <existing or proposed frequency/cycle and recurring posts from the brief>.
 This week's exceptions or unfilled posts: <reason and next action, or none>.
 Dates/times and timezone: <only as needed; planned, not scheduled>.
 
-| # | Regular post / one-off | Post | Format | Job | Remaining work/time | Ask |
+| Day or order | Regular post / one-off | Post | Format | Job / Source | Remaining work/time | Ask |
 |---|---|---|---|---|---|---|
-| 1 | IG-question | Why your neck hurts more on Fridays | Reel, clipped from S1 | Answers a buying question | Trim, captions, review: about 25 min | Book a Thursday assessment |
+| First | IG-question | Why your neck hurts more on Fridays | Reel | Answers a patient question [S1 12:40] | Trim, captions, review: about 25 min | Book a Thursday assessment |
 
 ## 1. <working title>
 - **Regular post:** its recurring role/ID, or one-off
 - **Hook:** the first line, spoken or on screen
 - **Why this one:** the customer question or job it does, in one sentence
-- **Made from:** `[S1 12:40-13:55]` clipped as is / new 40-second talking video / text only
+- **Made from:** <source and passage, or timed clip>. Say what can be reused and what must be written, filmed or found.
 - **To do:** concrete steps, for example "Trim S1 from 12:40 to 13:55, add the on-screen text from the post file"
 - **Ask:** what to tell viewers to do
 

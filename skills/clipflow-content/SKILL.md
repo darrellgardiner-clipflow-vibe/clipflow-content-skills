@@ -1,8 +1,8 @@
 ---
 name: clipflow-content
 metadata:
-  version: "2.0.1"
-description: Turn a business owner's own videos, recordings, transcripts, past posts or interview answers into a short brand brief, a week of posts they can actually make, and finished drafts in their voice. Use when someone asks what to post, wants a content plan, wants reels, captions or posts made from a video, call, livestream or transcript, or asks for the whole routine. Single steps can go straight to clipflow-brand, clipflow-plan, clipflow-write or clipflow-review.
+  version: "2.2.0"
+description: Plan next week's content from a business website, a founder's public posts, or supplied recordings and files. Use when someone shares a link and asks what to post, what to reuse, what to make first, or wants the plan and drafts together.
 ---
 
 # Content from what you already have
@@ -19,30 +19,33 @@ Look at what they attached or pointed you at before asking anything. Sort it:
 
 | They have | Do this |
 |---|---|
+| A website, public profile, article, post or video link | Open it. Use [getting material](references/getting-material.md#public-links) to follow relevant first-party links, record what you could read and work from the actual passages |
 | Video or audio files (`.mp4 .mov .webm .m4a .mp3 .wav`) | Transcribe them with timestamps. See [getting material](references/getting-material.md) |
 | Transcripts or captions (`.txt .vtt .srt .docx`, auto-captions) | Clean them up and keep the timestamps |
 | Past posts, captions, website or sales copy, notes on the offer | Read them for voice, offer and what they already said |
 | Insights screenshots or analytics exports | Use them in the review step |
-| Nothing yet | Run the interview in [getting material](references/getting-material.md) |
+| Nothing yet | Use the interview in [getting material](references/getting-material.md) when they tell you they have no material. A blocked link calls for a pasted excerpt first |
 
 Ask one batch of questions at most, and only for what you can't find or
 reasonably assume: what they sell and who they want more of, where they post,
 and how much time they have this week. Keep an existing posting rhythm when
-one is known. If they say "just go" and
-no rhythm or capacity is known, assume three posts, the platforms they mention
-(Instagram if none), and about an hour of work, then say what you assumed in
-the handover. Reduce that provisional count when the material or time requires it.
+one is known. If they say "just go" and no capacity is known, assume about
+an hour and name that assumption. Choose the number of posts the material
+and time support. If their channel is unknown, draft a text post they can
+adapt or name the channel you are proposing.
 
 ## 2. Do the steps they asked for
 
 | They want | Steps |
 |---|---|
-| "What should I post?" / "Plan my week" | [brand](../clipflow-brand/SKILL.md), then [plan](../clipflow-plan/SKILL.md) |
+| "What should I post?" / "Plan next week" | [brand](../clipflow-brand/SKILL.md), then [plan](../clipflow-plan/SKILL.md) for the week requested. Name the first piece to make |
+| "Plan my week and draft the first post" | Brand, plan, [write](../clipflow-write/SKILL.md) the first feasible piece, then [review](../clipflow-review/SKILL.md) that draft. Leave the other pieces as plan entries |
 | "Make posts from this video" / "Do the whole thing" | brand, plan, [write](../clipflow-write/SKILL.md) every post in the week, [review](../clipflow-review/SKILL.md) each one |
 | One caption, script or edit | write, then review. Read the brief if one exists; don't make them do onboarding for a caption |
 | "How did my posts do?" | review (results) |
 
-Reuse a brief or plan that already exists. Don't stop to ask for approval
+For a week plan, gather just the brand context needed for that week in the
+brief. Create the full set of profile documents when requested. Reuse a brief or plan that already exists. Don't stop to ask for approval
 between steps they already asked for. Review every draft and apply the fixes
 before you show it to them, so they see the finished version.
 
@@ -60,9 +63,10 @@ it. Notes, sources and checks go underneath, clearly separated.
 End in chat with a short handover, under about 120 words:
 
 1. Where the files are.
-2. The week, one line per post: what it is and what it's made from.
-3. What they need to do, three items at most: film this, trim that clip at
-   12:40, check the booking link. Anything else goes in the post notes.
+2. The week, one line per post. Give the proposed day or order, the idea,
+   the page, post or clip it draws on, and the remaining work in minutes.
+3. Say what to make first and the first physical action. Link the first draft
+   if requested. Leave detailed production notes in the files.
 4. One question, only if a real decision is waiting on them.
 
 Don't paste the whole brief or every post into chat; they can open the files.
