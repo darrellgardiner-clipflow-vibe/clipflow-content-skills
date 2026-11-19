@@ -1,7 +1,7 @@
 ---
 name: clipflow-content
 metadata:
-  version: "2.0.0"
+  version: "2.0.1"
 description: Turn a business owner's own videos, recordings, transcripts, past posts or interview answers into a short brand brief, a week of posts they can actually make, and finished drafts in their voice. Use when someone asks what to post, wants a content plan, wants reels, captions or posts made from a video, call, livestream or transcript, or asks for the whole routine. Single steps can go straight to clipflow-brand, clipflow-plan, clipflow-write or clipflow-review.
 ---
 
@@ -27,9 +27,11 @@ Look at what they attached or pointed you at before asking anything. Sort it:
 
 Ask one batch of questions at most, and only for what you can't find or
 reasonably assume: what they sell and who they want more of, where they post,
-and how much time they have this week. If they say "just go", assume three
-posts, the platforms they mention (Instagram if none), and about an hour of
-work, then say what you assumed in the handover.
+and how much time they have this week. Keep an existing posting rhythm when
+one is known. If they say "just go" and
+no rhythm or capacity is known, assume three posts, the platforms they mention
+(Instagram if none), and about an hour of work, then say what you assumed in
+the handover. Reduce that provisional count when the material or time requires it.
 
 ## 2. Do the steps they asked for
 

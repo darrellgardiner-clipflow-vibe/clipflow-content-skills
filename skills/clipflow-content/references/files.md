@@ -68,6 +68,11 @@ Words or styles they'd never use:
 ## What to ask people to do
 The action, and exactly where it happens (link in bio, DM a word, call).
 
+## Posting rhythm
+Account/channel, frequency or cycle, recurring audience jobs, optional days,
+source/production needs, timezone if times are set, and when to review it.
+State whether this is their existing commitment or a provisional proposal.
+
 ## Gaps
 What you couldn't find, and the question to answer on camera to fill it.
 ```
@@ -75,22 +80,26 @@ What you couldn't find, and the question to answer on camera to fill it.
 ## ideas.md
 
 ```markdown
-| # | Idea (as a hook) | Kind | From | Format | Used |
+| # | Idea (as a hook) | Kind | From | Format | Status / history |
 |---|---|---|---|---|---|
-| 1 | "Why does my neck hurt more on Fridays?" | Customer question | S1 12:40-13:55 | Clip | Week of 24 Nov |
+| 1 | "Why does my neck hurt more on Fridays?" | Customer question | S1 12:40-13:55 | Clip | Planned: week of 24 Nov, post 1; publication unknown |
 ```
 
 ## week-plan.md
 
 ```markdown
 # Week of <date>
-Time this week: <what they said, or your assumption>. Posting to: <platforms>.
+Time this week: <what they said, or your assumption>. Posting to: <accounts/platforms>.
+Rhythm: <existing or proposed frequency/cycle and recurring posts from the brief>.
+This week's exceptions or unfilled posts: <reason and next action, or none>.
+Dates/times and timezone: <only as needed; planned, not scheduled>.
 
-| # | Post | Format | Job | Time | Ask |
-|---|---|---|---|---|---|
-| 1 | Why your neck hurts more on Fridays | Reel, clipped from S1 | Brings enquiries | 25 min | Book a Thursday assessment |
+| # | Regular post / one-off | Post | Format | Job | Remaining work/time | Ask |
+|---|---|---|---|---|---|---|
+| 1 | IG-question | Why your neck hurts more on Fridays | Reel, clipped from S1 | Answers a buying question | Trim, captions, review: about 25 min | Book a Thursday assessment |
 
 ## 1. <working title>
+- **Regular post:** its recurring role/ID, or one-off
 - **Hook:** the first line, spoken or on screen
 - **Why this one:** the customer question or job it does, in one sentence
 - **Made from:** `[S1 12:40-13:55]` clipped as is / new 40-second talking video / text only
@@ -98,10 +107,11 @@ Time this week: <what they said, or your assumption>. Posting to: <platforms>.
 - **Ask:** what to tell viewers to do
 
 ## Backups
-Two or three ready ideas from ideas.md if one of these falls through.
+Two or three supported ideas from ideas.md if available. Note missing assets;
+planned or written does not automatically mean ready to post.
 
 ## Next time you film
-5 to 8 questions to answer on camera. Pick them to fill the brief's gaps and
+Questions to answer on camera. Pick them to fill open recurring posts, the brief's gaps and
 to give next week its posts.
 ```
 
@@ -150,3 +160,8 @@ on-screen text; a carousel has slides and a caption.
 What stood out:
 Try next week:
 ```
+
+When reviewing a week, retain its plan and add what was actually produced or
+published, remaining work and reasons for missed posts. Unknown stays unknown.
+Review the ongoing rhythm in the brief using the actual workload, source supply
+and results. Do not erase past plans or reset the idea backlog each week.

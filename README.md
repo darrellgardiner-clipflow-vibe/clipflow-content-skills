@@ -9,8 +9,10 @@ get back a folder with:
 
 - **A one-page brief:** who you sell to, the questions customers ask, the
   stories you tell, how you talk, and what's missing.
-- **A week plan** that fits the time you have, with a mix of posts that bring
-  enquiries and posts that build trust, and backups if one falls through.
+- **A posting rhythm and week plan** that fit the time you have: regular posts
+  with a purpose, supported ideas to fill them, and backups when available.
+  It keeps an existing routine and flags missing material instead of filling gaps
+  with posts you cannot make.
 - **Finished posts:** reel scripts or clip trim times from your own footage,
   on-screen text, carousels slide by slide, and captions ready to paste.
 - **A list of questions to answer next time you film**, so next week has
@@ -23,7 +25,7 @@ stories, numbers or results, and it doesn't post anything for you.
 |---|---|
 | [clipflow-content](skills/clipflow-content/SKILL.md) | The front door. Works out what you've got and runs the rest |
 | [clipflow-brand](skills/clipflow-brand/SKILL.md) | Reads your material and writes the brief |
-| [clipflow-plan](skills/clipflow-plan/SKILL.md) | Finds post ideas in your recordings and plans the week |
+| [clipflow-plan](skills/clipflow-plan/SKILL.md) | Sets a sustainable rhythm, keeps recurring posts and plans the week |
 | [clipflow-write](skills/clipflow-write/SKILL.md) | Writes each post in your voice |
 | [clipflow-review](skills/clipflow-review/SKILL.md) | Checks and fixes every post, and reads your results |
 

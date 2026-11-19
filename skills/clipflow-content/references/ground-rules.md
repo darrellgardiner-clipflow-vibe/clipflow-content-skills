@@ -14,7 +14,9 @@ skill in the pack.
   question for them, not into the copy.
 - A guest's or interviewer's view isn't the owner's. Check who's speaking.
 - The same story told in three videos is still one story. Don't count it as
-  three pieces of proof, and don't put it in two posts the same week.
+  three pieces of proof or repeat it on one channel just to fill the week.
+  When adapting it for another channel, give that version a useful purpose and
+  mark the shared source rather than calling it a new result.
 - Old offers and prices stay out when they've told you something newer. If
   you're not sure an offer is current, ask before it goes in a post.
 - Other accounts' posts can give you a format or a question to answer. Their

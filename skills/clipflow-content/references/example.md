@@ -38,6 +38,12 @@ week. Usually they've tried stretching videos and a new chair first. [S1 03:10] 
 ## What to ask people to do
 Book an assessment through the link in bio. Owner wants Thursday bookings. [Owner]
 
+## Posting rhythm
+Proposed for this first week: three Instagram posts, answering a customer
+question, showing the clinic's process and resolving a booking question.
+About 55 minutes of remaining work; review the rhythm after the owner reports
+what they managed to make. Days/times open; nothing scheduled.
+
 ## Gaps
 - No pricing for an assessment. Ask: "What does a first visit cost, and how long is it?"
 ```
@@ -47,12 +53,14 @@ Book an assessment through the link in bio. Owner wants Thursday bookings. [Owne
 ```markdown
 # Week of 24 Nov 2026
 Time this week: about 1 hour. Posting to: Instagram.
+Rhythm: provisional three-post week from the brief; review after this week.
+Dates/times open; this is a plan, not scheduled posts.
 
-| # | Post | Format | Job | Time | Ask |
-|---|---|---|---|---|---|
-| 1 | Why your neck hurts more on Fridays | Reel, clipped from S1 | Brings enquiries | 25 min | Book a Thursday assessment |
-| 2 | "Will I just get a sheet of exercises?" | Reel, clipped from S2 | Builds trust | 20 min | Book a Thursday assessment |
-| 3 | Do you need a referral? | Text post | Easy | 10 min | Book through the link in bio |
+| # | Regular post | Post | Format | Job | Remaining work/time | Ask |
+|---|---|---|---|---|---|---|
+| 1 | IG-question | Why your neck hurts more on Fridays | Reel, clipped from S1 | Answers a customer question | Trim, captions, review: about 25 min | Book a Thursday assessment |
+| 2 | IG-process | "Will I just get a sheet of exercises?" | Reel, clipped from S2 | Builds trust | Trim, captions, review: about 20 min | Book a Thursday assessment |
+| 3 | IG-booking | Do you need a referral? | Text post | Resolves a booking question | Write and review: about 10 min | Book through the link in bio |
 
 ## 1. Why your neck hurts more on Fridays
 - **Hook:** "Why does your neck hurt more on Fridays?"
