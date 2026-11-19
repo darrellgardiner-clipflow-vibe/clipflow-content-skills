@@ -1,7 +1,7 @@
 ---
 name: clipflow-review
 metadata:
-  version: "2.0.0"
+  version: "2.2.0"
 description: Check a drafted post, script, caption or carousel before the owner sees it, fix what fails, and note what only the owner can confirm. Also reads post results the owner shares (screenshots, exports or numbers) and turns them into what to try next week. Use after writing anything, when someone asks "is this ready" or "is this any good", or when they share how their posts did.
 ---
 
@@ -9,8 +9,11 @@ description: Check a drafted post, script, caption or carousel before the owner 
 
 ## Checking a post
 
-Open the saved post file, the source passage it came from, and the brief if
-there is one. Go through every check in [checks](references/checks.md), in
+Open the saved post file, the cited page section, original post or transcript
+passage, and the brief if there is one. Check the speaker, current offer and
+CTA destination. A bylined opinion, an ideal buyer inferred from a site and
+a testimonial each have different owners and limits. If you could only read
+the title, remove claims that depend on the body. Go through [checks](references/checks.md), in
 order. For each one:
 
 - **Fix it** if you can, in the post file. Then check again.

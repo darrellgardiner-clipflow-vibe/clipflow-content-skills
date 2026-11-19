@@ -16,7 +16,8 @@ sound like them or loses people on the first line isn't worth polishing.
    is eight words or fewer.
 4. **Pays off.** The post delivers what the hook promised, with a real example
    or detail.
-5. **One ask that works.** One clear next step, worded the same in the video,
+5. **An ask that fits the plan.** Preserve a deliberate CTA or a deliberate
+   choice to end with the answer. When there is an ask, give one clear next step, worded the same in the video,
    on screen and in the caption. The place it points to exists (a booking link,
    a DM word they'll answer, a phone number), or it's flagged.
 6. **Can be made.** They have the footage, or the notes say exactly what to

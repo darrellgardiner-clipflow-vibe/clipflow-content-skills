@@ -1,5 +1,9 @@
 # Try it on sample material
 
+Try [one service page](week-from-a-service-page.md) or [two published
+articles](week-from-public-links.md) for a link-first run. Both examples
+include the request, the public sources and a proposed week.
+
 [Northside Physio](northside-physio-live.md) is a made-up clinic with one
 Instagram Live transcript and a note from the owner. Copy it into a project
 folder and ask:
@@ -10,8 +14,8 @@ my clinic. Plan this week's posts and write them.
 ```
 
 You should get a `content/` folder with a one-page brief, a week plan with
-three posts that fit an hour, a finished file for each post with trim times,
-on-screen text and a caption, and a short handover in chat.
+posts that fit an hour, a finished file for each supported piece and a short
+handover. Look for verified trim times on clips and a realistic next action.
 
 Things worth checking in what comes back:
 
