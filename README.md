@@ -117,11 +117,6 @@ example when reporting a failure, with private information removed. Check local
 links and metadata before sending a change. Do not commit customer source material,
 credentials or generated client drafts.
 
-## Credit and license
+## License
 
-Created by Clipflow. The packaging was inspired by Jake Schincariol's
-[Instagram agent skill](https://github.com/Jakeschincariol/instagram-agent-skill).
-This repository contains Clipflow's workflow instructions; no hook dataset or
-Python tools from that repository are bundled.
-
-[MIT license](LICENSE).
+Created by Clipflow. [MIT license](LICENSE).
