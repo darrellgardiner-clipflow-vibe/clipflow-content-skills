@@ -32,6 +32,11 @@ a first guess.
   catchphrases they never used.
 - Don't change their call to action wording if they have one they like.
 - Don't put words in a customer's or anyone else's mouth.
+- Don't add lines of your own to fill a slide, land a point or close a post
+  ("Room to breathe", "close to everything", "I'd rather have a smaller group
+  than a bigger one"). Every opinion and every claim about the product, place
+  or result is theirs. If a slide needs a second line and they never said one,
+  leave it with the headline only.
 
 ## When instructions disagree
 

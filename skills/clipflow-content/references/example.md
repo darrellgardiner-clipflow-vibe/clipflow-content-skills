@@ -24,7 +24,7 @@ week. Usually they've tried stretching videos and a new chair first. [S1 03:10] 
 
 ## Proof they can use
 - Owner: most of the desk workers they see on a Friday sit for nine hours or
-  more a day. Their own observation, not a study. [S1 13:20]
+  more a day. Their own observation, not a study. [S1 13:16]
 ### Don't claim
 - Recovery times or success rates. None were given.
 - Anything about reviews. None supplied.
@@ -102,7 +102,7 @@ Still sore by Thursday? Book a Thursday assessment through the link in bio.
 
 ---
 ## Notes (not for posting)
-- Made from: [S1 12:40-13:55]; "nine hours" is the owner's observation [S1 13:20]
+- Made from: [S1 12:40-13:55]; "nine hours" is the owner's observation [S1 13:16]
 - To film or find: nothing, this is a clip
 - Check before posting: the booking link doesn't show Thursday slots yet; turn on auto-captions and check "physio" is spelled right
 - Review: all checks pass. Fixed: caption ask matched to the video. Needs you: Thursday slots on the booking page.

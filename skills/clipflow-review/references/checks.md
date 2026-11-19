@@ -5,7 +5,9 @@ sound like them or loses people on the first line isn't worth polishing.
 
 1. **True.** Every fact, number, story, result and quote is in their material.
    Look up the tag. If the post needs something they didn't say, cut it or
-   flag it. No made-up reviews, clients, numbers or credentials.
+   flag it. No made-up reviews, clients, numbers or credentials. Small
+   connecting lines count too: "close to everything" is a claim about the
+   property. Cut it rather than flag it.
 2. **Sounds like them.** Read it next to their own words in the transcript or
    past posts. Put back their phrases where you swapped in tidier ones. Cut
    anything they'd never say.

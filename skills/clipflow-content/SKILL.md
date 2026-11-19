@@ -55,14 +55,17 @@ it. Notes, sources and checks go underneath, clearly separated.
 
 ## 4. Hand over in plain words
 
-End in chat with a short handover, under about 150 words:
+End in chat with a short handover, under about 120 words:
 
 1. Where the files are.
 2. The week, one line per post: what it is and what it's made from.
-3. What they need to do: film this, trim that clip at 12:40, check the booking link.
+3. What they need to do, three items at most: film this, trim that clip at
+   12:40, check the booking link. Anything else goes in the post notes.
 4. One question, only if a real decision is waiting on them.
 
 Don't paste the whole brief or every post into chat; they can open the files.
+Don't mention steps that failed on your side (a file you couldn't copy, a
+tool that wasn't there) unless they need to do something about it.
 Write the handover the way you'd text a busy client. Avoid words like
 "evidence", "artifact", "slot", "workflow" or "deliverable".
 

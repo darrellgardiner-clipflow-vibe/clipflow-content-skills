@@ -11,7 +11,9 @@ caption, because most people watch with the sound off at first.
 2. If there's a dead patch or a tangent in the middle, give a second cut:
    "Cut 13:10 to 13:24."
 3. Write out what they say in the clip as the **Script**, as spoken, so they
-   can check it and caption it.
+   can check it and caption it. Never tidy or swap words in a clip's script:
+   it has to match the audio. If the transcript has a word you can't trust,
+   keep it as heard and list it in the notes to check.
 4. Write the on-screen hook (eight words or fewer) for the first two or three
    seconds, plus the key point on screen if it helps a muted viewer follow.
 5. Aim for 20 to 60 seconds. Longer is fine if it holds up. Don't cut a good
