@@ -12,8 +12,10 @@ opinions. Select the appropriate author and account before drafting.
 If the user has established writing instructions or specialist skills for a
 format, apply the relevant ones. They are optional inputs: a business starting
 from its website, a few examples and a customer question can use this pack
-without maintaining a writing system of its own. Review against the supplied
-brief and the checks in this pack when no additional requirements exist.
+without maintaining a writing system of its own. Use the bundled [editorial method](../../clipflow-write/references/editorial-method.md),
+[voice composition](../../clipflow-write/references/voice-and-rules.md) and
+[review method](../../clipflow-review/references/editorial-review.md). Review against
+the supplied brief and selected format when no additional requirements exist.
 
 Keep deliberate CTAs when they serve the brief. Check the promised item,
 destination and fulfilment instead of deleting an ask for sounding familiar.

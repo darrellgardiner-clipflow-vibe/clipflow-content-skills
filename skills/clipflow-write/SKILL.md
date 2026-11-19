@@ -1,35 +1,62 @@
 ---
 name: clipflow-write
 metadata:
-  version: "1.0.2"
-description: Draft one selected content piece from a brand brief or plan slot, preserving evidence, speaker voice and deliberate CTAs. Use for a Reel script, caption, carousel copy or article within a brand-to-content workflow; reuse the existing project's channel writer and review requirements when provided.
+  version: "1.1.0"
+description: Create, edit or adapt business content using a source-grounded brief, scoped voice rules and bundled format-specific writing methods. Use for scripts, carousels, posts, articles, email, sales copy or help; also extracts distinct pieces from a supplied source. No private writing system or additional writer is required.
 ---
 
-# Write one supported piece
+# Write the piece the reader needs
 
-Write the piece for the business's intended reader, using the brief and the
-material that supports it. Read [the shared handoff](../clipflow-content/references/handoff.md).
-Use [project integration](../clipflow-content/references/project.md) when the
-business already has writing instructions or an approval process. An additional
-writing skill is not required to produce the draft.
+Start with the business's intended reader, the requested job and the material
+available. Reuse an existing plan slot or brief; a direct request does not need
+a complete brand analysis or weekly plan.
 
-1. Resolve the requested piece or slot: speaker/account, reader question, angle, supported answer, purpose, format, available visuals, intended action and preserve list. A direct request can supply these without a week plan.
-2. Check each factual claim against its evidence and current scope. Carry qualifiers and attribution. If a missing fact is unnecessary, omit it; if central, ask for it or label the piece blocked. Do not ship unresolved placeholders or invent the speaker's result.
-3. Select an opening from the actual material. When useful, offer a few structurally different candidates and explain their fit. Consult a relevant part of a hook collection, not the full library. Never declare a winner from an unvalidated score.
-4. Draft in the selected voice and format. For a spoken script, separate spoken copy, overlays and production notes; vary phrase and sentence lengths for a natural read. Estimate duration only with a stated rate and label it an estimate. For a carousel, write slide copy separately from the caption. For an article, answer the reader's question before adding background.
-5. Preserve deliberate CTAs and the promise behind them. If the destination, asset or fulfilment is unknown, flag that dependency. Avoid replacing precise wording or deleting an ask merely to pass a style heuristic. Preserve meaningful punctuation, Unicode and joined emoji in any mechanical cleanup.
-6. Save public copy separately from source/production notes in the existing piece folder. Pass that saved revision to [clipflow-review](../clipflow-review/SKILL.md). Run any applicable project/channel review requirements; do not label the piece ready based on this skill alone.
+Read [the editorial method](references/editorial-method.md) to interpret the mode,
+read sources, select an angle and build the argument. Read [voice and rules](references/voice-and-rules.md)
+when selecting author samples, composing instructions or resolving feedback. Use
+[patterns](references/patterns.md) when a structure helps the material.
 
-For standalone use, follow the supplied brand rules and format requirements. The minimum review still checks source fidelity, voice, clear delivery, feasibility and CTA fulfilment. Do not pretend an unavailable local channel skill ran. Rendering and footage editing remain outside this pack. When the request includes saving, scheduling or publishing in Clipflow, follow [the connector handoff](../clipflow-content/references/clipflow.md) after the applicable review.
+## Select the format method
 
-## Choose the treatment for the piece
+Read only the guide relevant to this deliverable. For adaptations, inspect both
+the original's meaning and the destination method. Platform and argument type are
+separate choices: a decision story can become a video, carousel or article.
 
-- **Spoken video:** open on the situation, question or claim that gives the viewer a reason to listen. Develop one useful point through the available example, demonstration or story. Separate spoken words from overlays and shot notes; read the script aloud for cadence.
-- **Carousel:** choose a question that benefits from several slides. Give each slide a distinct job in the explanation, with enough context to understand the next. Make the cover's promise specific and deliver it by the end. The caption should add context rather than repeat every slide.
-- **Short post or caption:** lead with the useful observation, moment or question. Include enough detail to make it meaningful to someone unfamiliar with the business. Use an action only when it serves the piece's purpose.
-- **Article:** answer the reader's main question early, then organize the supporting explanation, examples and practical steps around what they need to understand or do. Depth follows the material, not a fixed word target.
+| Requested piece | Method |
+|---|---|
+| Reel, short spoken script, silent text over footage | [Short video](references/formats/short-video.md) |
+| Carousel slide copy, caption and visual brief | [Carousel](references/formats/carousel.md) |
+| Social post, caption, quote post or thread | [Social writing](references/formats/social.md) |
+| Blog, guide, founder essay or progress article | [Articles and essays](references/formats/article.md) |
+| Newsletter, sequence email, broadcast or customer reply | [Email and messages](references/formats/email.md) |
+| Long-form video script and packaging brief | [Long video](references/formats/long-video.md) |
+| Offer, landing page, comparison or ad copy | [Sales copy](references/formats/sales-copy.md) |
+| Help article or product instructions | [Help](references/formats/help.md) |
 
-Use the business's accepted examples to choose vocabulary, level of detail and
-sentence rhythm. Preserve a supplied author's wording outside the requested
-edit scope. When examples are sparse, write plainly and mark the voice as
-provisional instead of inventing personality traits.
+## Work through the piece
+
+1. Resolve mode, author/account, reader situation and question, supported answer,
+   purpose, destination, desired response or `none`, preserve list and edit scope.
+2. Select relevant evidence and voice samples. Inspect passages behind public
+   claims. Keep dates, attribution, speaker ownership and qualifications intact.
+3. For an ambiguous angle, compare a few by payoff, support, author fit and
+   production needs. Reject a promise requiring invented proof or opinion.
+4. Outline the argument in headings, slide jobs or spoken beats before writing.
+   Link the consequential points to evidence. Use the selected format method to
+   produce the actual requested fields, not a generic paragraph for every channel.
+5. Read for natural cadence and useful progression. Preserve deliberate CTAs,
+   uncertainty and author wording. Verify the promised resource/destination; an
+   unavailable asset creates a dependency rather than a reason to hide the ask.
+6. Save public copy separately from source/production notes. Run [clipflow-review](../clipflow-review/SKILL.md)
+   on the final saved revision and apply any additional supplied project checks.
+
+For several pieces from one source, use the extraction and repurposing method in
+[the editorial guide](references/editorial-method.md). Share claim grounding while
+choosing distinct reader jobs and destination-specific openings and structures.
+
+Use [the brief fields](references/brief.md) where a new piece record is needed.
+Existing business instructions remain relevant through [project integration](../clipflow-content/references/project.md),
+but every format method required above is included here. Do not claim a rendered
+asset or completed edit from a copy/production brief. For requested Clipflow
+workspace, scheduling or publishing actions, use [the connector handoff](../clipflow-content/references/clipflow.md)
+after the applicable review; the connection is optional for local work.

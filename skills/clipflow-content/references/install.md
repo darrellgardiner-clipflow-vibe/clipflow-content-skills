@@ -15,3 +15,7 @@ material. It needs no separate Brand Lens service. Optionally connect your
 Clipflow account through your agent's supported connection setup to perform
 requested workspace, scheduling or publishing actions. No account, credentials
 or service connection is bundled in this repository.
+
+The method, format and review guides are included inside the five skill folders.
+Copy their `references/` directories intact. No private writing files or hook
+archive are required. Only the references selected for the task need to be read.

@@ -17,6 +17,36 @@ to explain the audience, voice and offer again at every step.
 | [clipflow-write](skills/clipflow-write/SKILL.md) | Writes a selected script, caption, carousel or article |
 | [clipflow-review](skills/clipflow-review/SKILL.md) | Checks a draft or interprets supplied performance results |
 
+## Methods included
+
+The pack contains the working methods behind the five entry points, so you do
+not need a separate private writing system:
+
+- [Brand Lens extraction](skills/clipflow-brand/references/extraction.md): source
+  inventory, grounded observations, assessed claims, audience/voice knowledge,
+  evidence coverage and dated refreshes.
+- [Editorial decisions](skills/clipflow-write/references/editorial-method.md):
+  interpreting the request, choosing a reader question and angle, outlining,
+  and extracting distinct pieces from one source.
+- [Voice and scoped rules](skills/clipflow-write/references/voice-and-rules.md):
+  learning from samples and approved edits, keeping author/account/format choices
+  separate, and resolving conflicting feedback.
+- [Content patterns](skills/clipflow-write/references/patterns.md): explanations,
+  decisions, case studies, reactions, comparisons, offers, updates and resolution.
+- [Editorial review](skills/clipflow-review/references/editorial-review.md):
+  source checks, structure, mechanical and semantic reads, production dependencies,
+  and learning from corrections and measured results.
+
+The writer includes dedicated guides for [short video](skills/clipflow-write/references/formats/short-video.md),
+[carousels](skills/clipflow-write/references/formats/carousel.md),
+[social posts and captions](skills/clipflow-write/references/formats/social.md),
+[articles and essays](skills/clipflow-write/references/formats/article.md),
+[email](skills/clipflow-write/references/formats/email.md),
+[long video](skills/clipflow-write/references/formats/long-video.md),
+[sales copy](skills/clipflow-write/references/formats/sales-copy.md), and
+[help content](skills/clipflow-write/references/formats/help.md).
+Read only the method needed for the current task.
+
 ## Try it
 
 Give your agent the repo URL and ask:
@@ -35,7 +65,11 @@ Use clipflow-review to check this draft against its brief and sources.
 Keep the comment-keyword CTA. Tell me if anything promised is missing.
 ```
 
-A [fictional sample brief](examples/cedar-desk.md) is included for a local trial.
+Try the fictional [Cedar Desk brief](examples/cedar-desk.md) for a short local
+trial. [Harbour Mill](examples/harbour-mill.md) exercises brand analysis, a video,
+a carousel and a knowledge refresh; [Orbit Studio](examples/orbit-studio.md)
+exercises an article, email, a narrow edit and a results review. These examples
+contain no real customer information. See [running the examples](examples/README.md).
 
 ## Install in Claude Code
 
@@ -62,8 +96,12 @@ transcripts, customer questions, current offer facts, available assets and your
 production budget. Missing optional facts stay unknown rather than being filled
 with invented numbers.
 
-The workflow produces a brand brief, a plan with source-backed slots, a selected
-draft and a review. It can reuse an existing project folder and calendar.
+The workflow produces a brand brief with grounded notes and claims as needed,
+a plan with source-backed slots, format-specific drafts and an editorial review.
+A [brand record](skills/clipflow-brand/references/records.md) and
+[piece brief](skills/clipflow-write/references/brief.md) provide reusable fields
+when no existing project structure is available. It can reuse your current
+folder and calendar.
 Public copy stays separate from production notes and evidence.
 
 A deliberate save, reply, follow, booking or comment-keyword CTA is preserved.
@@ -97,19 +135,27 @@ itself. Connect Clipflow to take supported actions such as scheduling and
 publishing, within your account permissions and the scope you request.
 It does not predict views or detect AI authorship.
 
-The source workflow was exercised on a fictional brand through brand briefing,
-two-slot planning, one draft, review and direct review of a short comment.
-Checks covered a retired offer, an unsupported competitor claim, a deliberate
-CTA and an unfinished promised asset. Plugin manifests and local references
-are checked with:
+Standalone tests used two fictional businesses with no private writing library:
+Harbour Mill produced brand knowledge, a plan, short video, carousel/caption and
+a later knowledge refresh. Orbit Studio produced brand knowledge, an article,
+newsletter, narrow caption edit and a results review. These tests exercised
+duplicate evidence, author/company voice, corrected offers, missing fulfilment
+and unequal analytics windows. An earlier Cedar Desk trial covered a first post
+and an unfinished CTA resource.
+
+These are limited text-based exercises, not proof across every business or format.
+Long-video, sales-copy and help guides have source/structure review but were not
+independently exercised in those runs. Audio, rendered visuals, provider UI
+installation and connected Clipflow publishing remain outside that test evidence.
+
+Check skill metadata, plugin manifests and local references with:
 
 ```sh
 python3 scripts/validate.py
 ```
 
-Provider UI installation and Clipflow actions need verification in your own
-environment. Live publishing is not covered by the local checks. A structural
-check does not prove editorial quality.
+Structural checks do not prove editorial quality. Verify actual generated work
+against its brief, sources and the selected format before the next action.
 
 ## Contributing
 

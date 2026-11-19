@@ -10,8 +10,9 @@ Read an existing brief first. Ask only for missing essentials; an unknown revenu
 
 ## Brand Lens as a skill workflow
 
-Use [clipflow-brand](../../clipflow-brand/SKILL.md) to perform the brand analysis
-from project files. Read supplied posts, transcripts, owner instructions and
+Use [clipflow-brand](../../clipflow-brand/SKILL.md) and its
+[extraction method](../../clipflow-brand/references/extraction.md) to perform brand
+analysis from project files. Read supplied posts, transcripts, owner instructions and
 existing briefs; extract grounded observations and compile the relevant audience,
 positioning, voice, offers and proof into the shared working record.
 

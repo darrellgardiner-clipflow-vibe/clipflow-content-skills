@@ -1,8 +1,10 @@
 # Shared working record
 
-Use the existing content project's brief and plan. Outside an established project, create a user-selected output folder with `brand.md`, `plan.md` and one folder per piece. These files hold the working outputs of the Brand Lens skill workflow; reuse them rather than creating a second task tracker. Link originals instead of copying transcript archives. Check existing files before writing and preserve unrelated edits.
+Use the existing content project's brief and plan. Outside an established project, create a user-selected output folder with `brand.md` when brand analysis is needed, a `plan.md` when planning is requested or needed, and one folder per requested piece. These files hold the working outputs of the Brand Lens skill workflow; reuse them rather than creating a second task tracker. Link originals instead of copying transcript archives. Check existing files before writing and preserve unrelated edits.
 
 Every stage may be entered directly with sufficient inputs. Ask one batched question only for gaps that affect truth, identity or material intent. Record reversible assumptions and keep working on independent parts. Do not demand a fixed sample count when the supplied material is sufficient.
+
+For a deeper initial analysis or a refresh, use the [brand extraction method](../../clipflow-brand/references/extraction.md) and its [record fields](../../clipflow-brand/references/records.md). A single-file brief may remain sufficient for a small job.
 
 ## Brand fields
 
@@ -31,6 +33,8 @@ Research from other accounts belongs in a separate reference section. It can sug
 Each stable slot ID records: account/platform, reader question, purpose, angle and supported answer, evidence IDs, format, available assets, recording/editing needs, effort estimate with basis, timing/timezone if relevant, CTA/destination or explicit `none`, and status/dependencies. Do not confuse a provisional date with a scheduled post. If a Clipflow action is requested, carry the verified organization/account/channel identifiers and the intended date/time/timezone to the connector handoff; record returned IDs and actual state after the action.
 
 ## Piece handoff
+
+Resolve the relevant [piece brief](../../clipflow-write/references/brief.md), including mode, reader situation, answer boundary, selected rule sources and format.
 
 Carry slot ID, chosen angle, evidence IDs, brand/voice references, intended action, preserve list, format/length preference and available visuals. Deliver public copy separately from editorial notes. Keep unresolved factual placeholders in the brief rather than shipping them in ready copy.
 

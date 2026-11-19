@@ -1,13 +1,13 @@
 ---
 name: clipflow-review
 metadata:
-  version: "1.0.1"
+  version: "1.1.0"
 description: Review a saved content draft against its brief and evidence, or interpret supplied post results for the next plan. Use for readiness checks and learning in the brand-to-content workflow; style checks do not detect AI authorship or predict performance.
 ---
 
 # Review and learn
 
-Read [the shared handoff](../clipflow-content/references/handoff.md). For an existing project, use [project integration](../clipflow-content/references/project.md) and its required reviews and evaluation record. Choose draft review, results review, or both as requested.
+Read [the shared handoff](../clipflow-content/references/handoff.md). For an existing project, use [project integration](../clipflow-content/references/project.md) and its required reviews and evaluation record. Choose draft review, results review, or both as requested. Read [the editorial review method](references/editorial-review.md) for ordered checks, mechanical and semantic passes, revision diagnosis and retained feedback. Use the selected writer's bundled format guide for format-specific checks.
 
 ## Draft review
 
@@ -19,7 +19,7 @@ Read the actual saved draft, its brief and the cited passages. Check:
 - Production and format: required fields, available visuals, attribution, length/technical limits actually verified, and missing dependencies.
 - CTA: deliberate ask preserved, promise supported, destination and fulfilment checked. Familiar wording alone is not a defect. An explicit `none` is valid.
 
-Use pass, needs revision, unknown or not applicable with a concrete reason for each relevant check. Apply requested local fixes and recheck the final revision. Perform any required project checks on the actual draft, not a remembered summary. State which checks ran and which dependencies were unavailable. A missing mandatory check prevents a readiness claim. When copy is complete but a promised asset is unavailable, report `draft complete; fulfilment blocked` as the overall status. Do not headline it as ready while hiding the hold in a later note. Mark the exact draft revision ready only for the requested next step; publication follows [the Clipflow handoff](../clipflow-content/references/clipflow.md) only when requested and supported by the connected account.
+Use pass, needs revision, unknown or not applicable with a concrete reason for each relevant check. Apply requested local fixes and recheck the final revision. Perform any required project checks on the actual draft, not a remembered summary. State which checks ran and which dependencies were unavailable. A missing mandatory check prevents a readiness claim. When copy is complete but a promised asset is unavailable or its delivery route is missing, report `draft complete; fulfilment blocked` as the overall status. Do not headline it as ready while hiding the hold in a later note. Mark the exact draft revision ready only for the requested next step; publication follows [the Clipflow handoff](../clipflow-content/references/clipflow.md) only when requested and supported by the connected account.
 
 ## Results review
 
