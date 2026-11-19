@@ -1,30 +1,37 @@
 ---
 name: clipflow-review
 metadata:
-  version: "1.1.0"
-description: Review a saved content draft against its brief and evidence, or interpret supplied post results for the next plan. Use for readiness checks and learning in the brand-to-content workflow; style checks do not detect AI authorship or predict performance.
+  version: "2.0.0"
+description: Check a drafted post, script, caption or carousel before the owner sees it, fix what fails, and note what only the owner can confirm. Also reads post results the owner shares (screenshots, exports or numbers) and turns them into what to try next week. Use after writing anything, when someone asks "is this ready" or "is this any good", or when they share how their posts did.
 ---
 
-# Review and learn
+# Check the post, or read the results
 
-Read [the shared handoff](../clipflow-content/references/handoff.md). For an existing project, use [project integration](../clipflow-content/references/project.md) and its required reviews and evaluation record. Choose draft review, results review, or both as requested. Read [the editorial review method](references/editorial-review.md) for ordered checks, mechanical and semantic passes, revision diagnosis and retained feedback. Use the selected writer's bundled format guide for format-specific checks.
+## Checking a post
 
-## Draft review
+Open the saved post file, the source passage it came from, and the brief if
+there is one. Go through every check in [checks](references/checks.md), in
+order. For each one:
 
-Read the actual saved draft, its brief and the cited passages. Check:
+- **Fix it** if you can, in the post file. Then check again.
+- **Flag it for the owner** only when it needs something you can't know or do:
+  a price, permission to use a review, a link that has to be set up, footage
+  to shoot.
 
-- Truth and identity: source support, qualifiers, currentness, speaker ownership and privacy. Other accounts' results never become this speaker's proof.
-- Purpose: the piece answers the chosen question and delivers what the opening promised.
-- Voice and cadence: selected brand rules and source examples, readable structure and speakable phrasing. Do not flatten distinctive wording into a template.
-- Production and format: required fields, available visuals, attribution, length/technical limits actually verified, and missing dependencies.
-- CTA: deliberate ask preserved, promise supported, destination and fulfilment checked. Familiar wording alone is not a defect. An explicit `none` is valid.
+Then add a short **Review** line to the post's Notes, for example:
 
-Use pass, needs revision, unknown or not applicable with a concrete reason for each relevant check. Apply requested local fixes and recheck the final revision. Perform any required project checks on the actual draft, not a remembered summary. State which checks ran and which dependencies were unavailable. A missing mandatory check prevents a readiness claim. When copy is complete but a promised asset is unavailable or its delivery route is missing, report `draft complete; fulfilment blocked` as the overall status. Do not headline it as ready while hiding the hold in a later note. Mark the exact draft revision ready only for the requested next step; publication follows [the Clipflow handoff](../clipflow-content/references/clipflow.md) only when requested and supported by the connected account.
+```markdown
+- Review: all checks pass. Fixed: hook shortened to 7 words, ask matched to caption.
+  Needs you: confirm Thursday assessments are still $65.
+```
 
-## Results review
+Don't tell the owner a post is ready while something it depends on is
+missing. Say "ready once you've checked the price" instead.
 
-Accept actual exports, screenshots or connected read-only analytics. Record the primary measure, raw numerator/denominator, observation window, comparable baseline and missing data. No numbers means no performance conclusion; a qualitative draft review is still possible.
+Don't report a score, a pass rate or a prediction of how the post will do.
+None of these checks can tell you how many views it will get.
 
-Use same-account, comparable-format medians when justified by the supplied sample. Keep follower ratios separate and note promotion, post age, topic and production differences. A small selected sample can suggest a test, not establish a cause. Never infer retention from views or followers from likes.
+## Reading results
 
-Separate observed findings, possible explanations and the next experiment. Feed a scoped recommendation into the existing plan/results record. Do not silently promote a performance observation into brand policy; record it as evidence or a proposed experiment for the Brand Lens skill workflow. If the user requests only a review, stop with findings and the authorized edits.
+When they share how posts did, use [results](references/results.md). Save to
+`content/results.md`, and feed what you learn into the next plan.

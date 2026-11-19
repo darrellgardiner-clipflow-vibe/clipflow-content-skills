@@ -1,56 +1,44 @@
-# Carousel copy and visual brief
+# Carousels
 
-Choose the idea that benefits from a sequence the reader can revisit. A caption
-cut into slide-sized fragments is not yet a carousel. Identify what each swipe
-adds to the reader's understanding.
+A carousel works when the idea is a sequence worth swiping: steps, a list of
+mistakes, a before and after, a story in a few turns, or a question answered
+properly. A caption chopped into slides is not a carousel.
 
-## Choose the progression
+## Shape
 
-- Story: meaningful event, necessary context, constraint, turn, consequence or remaining question.
-- Explanation: reader question, direct orientation, steps or mechanism with examples, usable takeaway.
-- Case analysis: bounded result, relevant context, observable behaviour, reasoning, conditions for applying it.
-- Progress/retrospective: period and question, selected changes, actual wins and difficulties, lessons and next decisions.
+- **Slide 1 (cover):** the hook, eight words or fewer, plus an optional short
+  line underneath that says who it's for or what they'll get.
+- **Slides 2 to N:** one point per slide. A headline that carries the point,
+  then one to three short lines if needed. About 25 words is plenty for a slide.
+- **Last slide:** the payoff and the ask, said exactly ("Book a Thursday
+  assessment, link in bio").
 
-Choose slide count from the argument and planned density. Do not pad to a fixed
-number or use a supposed ranking rule to justify length. Keep work in progress,
-released changes and current availability distinct in update carousels.
+Five to eight slides suits most business carousels. Use as many as the idea
+needs and no more. Read the headlines alone in order: they should tell the
+whole story. If slide 2 restates slide 1, cut it.
 
-## Outline headlines before body copy
+## Write it out slide by slide
 
-Read the proposed cover and slide headlines in sequence. They should carry the
-argument without repeated promises or vague "why it matters" labels. The cover
-names a specific payoff; slide two adds context or substance rather than restarting
-the introduction. Each later slide should answer the next useful question.
+```markdown
+## Slides
+1. **Your neck isn't weak. Your week is long.** (cover)
+   For desk workers whose neck is worst by Friday
+2. **Count the hours** ...
+```
 
-Give each slide one main job. Use a second line when it adds context or a turn;
-not every slide needs the same headline/body shape. The closing slide delivers
-the promised answer, a practical next action or an honest unresolved question.
+For each slide, add a short visual note when a picture would explain better
+than words: a photo of the actual desk setup, a screenshot, a simple diagram.
+Mark it as something they have, something to shoot, or something to make.
 
-## Use visuals as evidence
+## Caption
 
-For each slide record: role, headline, body if needed, source IDs, proposed visual,
-asset status and production notes. An authentic screenshot, example, receipt,
-timeline or diagram may explain more clearly than another paragraph.
+The caption adds context or the owner's own take. It doesn't repeat every
+slide. First line works on its own; end with the same ask as the last slide.
+Add a one-line alt text description per slide in the notes for accessibility.
 
-Use original artifact wording only when the source exists and its use is suitable.
-A recreated message must be labelled a reconstruction; invented dialogue must be
-clearly illustrative and must never impersonate customer proof. Redact private
-information before public use. Mark unavailable visuals as dependencies rather
-than treating a design suggestion as a finished asset.
+## Don't
 
-For photo-led slides, suggest subject/action/setting relevant to the argument.
-Design direction should follow supplied brand examples and inspected visuals.
-Keep claims about dimensions, crop and file limits separate from editorial advice;
-verify current requirements in the destination or publishing interface at production.
-
-## Caption and accessibility
-
-Write the caption as its own piece: context, a relevant additional example or the
-author's actual response. When discussing another person's material, distinguish
-explaining their idea on the slides from stating this author's view in the caption.
-No invented opinion is needed to make the caption personal.
-
-Preserve attribution and intended CTA. Include alt-text notes for the actual
-visuals, not descriptions of imaginary finished files. Check legibility and
-contrast at feed/card size when rendered; copy approval does not prove visual
-readiness. Output slide copy and visual notes separately from the caption.
+- Don't make up quotes, messages or reviews for a slide. A real screenshot (with
+  private details blurred) or nothing.
+- Don't promise a design. You're writing the copy and the visual notes; if they
+  use Canva or a designer, the slide-by-slide list is what they hand over.

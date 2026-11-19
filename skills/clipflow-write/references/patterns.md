@@ -1,28 +1,17 @@
-# Choose a content pattern
+# Post shapes
 
-These structures help organize evidence. They are options, not claims about what
-performs best, and they do not supply missing events, numbers or opinions.
-Use one primary argument per piece; combine only when the reader needs both.
+Use one when the material fits. None of them needs a number or a story the
+owner didn't give you, and if a shape needs one you don't have, pick another.
 
-| Pattern | Inputs and progression | Failure to prevent |
-|---|---|---|
-| Explain a task | Reader task, prerequisites, direct answer, steps with reasons, worked example, result to look for | Advice that omits the step or condition needed to act |
-| Explain a mechanism | Question, observed situation, how the parts relate, example, limits | Naming a framework instead of explaining it |
-| Decision story | Actual situation, constraint, choice and reasoning, observed consequence, remaining trade-off | Invented confession or a successful ending the source lacks |
-| Case study | Subject, baseline/timeframe, change, outcome/measurement, alternatives, applicability | Correlation presented as proof of cause |
-| Opinion/reaction | Specific attributed event, author's known position, reason/evidence, consequence or honest question | A plausible but invented personal take |
-| Comparison | Reader decision, criteria, comparable options/evidence, trade-offs, conditional recommendation | Unknown facts scored as zero or unlike populations compared |
-| Offer | Reader job, specific promise, mechanism, relevant proof, terms/objection, action | Missing deliverable, invented urgency or an unsupported guarantee |
-| Product update | Available change, user consequence, eligibility/conditions, demonstration, how to use it | Roadmap work announced as available |
-| Curated edition | Reader question, selection criterion, attributed items with relevance, supported synthesis | A pile of links with no editorial reason |
-| Task resolution | Known issue, prerequisite, verified action, expected result, fallback diagnostic | Speculative diagnosis or a sales pitch replacing help |
+| Shape | How it runs | Good for | Watch out for |
+|---|---|---|---|
+| Answer a customer question | Their question, why it happens, what to do, one example, the ask | Bringing enquiries; the easiest post for most businesses | Answering a question nobody actually asked |
+| Fix a common mistake | The mistake, why people make it, what to do instead, the ask | Showing expertise quickly | Making the viewer feel stupid |
+| A story from the job | What happened, what they did, how it turned out, what it means for the viewer | Trust | Inventing details, or a happy ending that didn't happen |
+| Behind the scenes | What they're doing, why they do it that way, what the customer gets from it | Trust, easy to film | Showing private customer details |
+| Their opinion | The usual advice, what they think instead, why, one example | Standing out | An opinion they never actually gave |
+| Before and after | The starting point, what changed, the result, how long it took | Proof | A result you can't back up with what they gave you |
+| The offer | Who it's for, what they get, how it works, the price or how to find out, how to book | Sales, used sparingly | Made-up urgency or guarantees |
 
-If the evidence cannot support a pattern, change the treatment. A case with no
-measured result can become a process demonstration. A story can end with an
-unresolved trade-off. A useful explanation can end without a CTA. A pattern
-requiring a number is never a reason to invent one.
-
-For an offer, the wording must match the actual destination and available terms.
-For a comparison, verify changing prices/capabilities before publication or scope
-the piece to dated observations. Mark illustrations and hypothetical scenarios so
-they cannot be mistaken for a client result or a real message.
+A post can end without an ask if it's a story or an opinion. Most business
+posts should still tell people one next step.

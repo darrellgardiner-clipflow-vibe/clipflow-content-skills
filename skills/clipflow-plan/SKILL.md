@@ -1,30 +1,83 @@
 ---
 name: clipflow-plan
 metadata:
-  version: "1.1.0"
-description: Turn an existing brand brief, source material and production capacity into a feasible content week with traceable slots. Use for what-to-make and weekly content planning; reuse an existing calendar and owner, and hand requested scheduling actions to the optional Clipflow connector.
+  version: "2.0.0"
+description: Find post ideas in a business owner's recordings and brief, then pick a week of posts that fits the time they have, each with a hook, what it's made from (down to the timestamps to clip), what to do, and the ask. Use when someone asks what to post this week, wants a content plan or calendar, or wants ideas pulled out of a video, call or transcript.
 ---
 
-# Plan a feasible week
+# Plan a week they can actually make
 
-Read [the shared handoff](../clipflow-content/references/handoff.md). Use [sources](../clipflow-content/references/sources.md) for optional research and [project integration](../clipflow-content/references/project.md) when working in an existing project.
+A good plan is one the owner finishes. It uses the recordings they already have,
+fits the hours they've got, and gives every post a reason to exist: either it
+brings enquiries or it makes people trust them enough to enquire later.
 
-1. Check whether a plan/calendar already exists and who owns it. Read the requested week, account, audience goal and existing commitments. Preserve approved slots outside the requested scope.
-2. Reuse the working brand brief, or run [clipflow-brand](../clipflow-brand/SKILL.md) only for missing context needed now. Establish recording time, available footage, review/edit capacity and preferred output count. Use a stated provisional capacity when a reversible choice can keep work moving.
-3. Use [source interpretation and repurposing](../clipflow-write/references/editorial-method.md) to inventory supported stories, questions, demonstrations, viewpoints, offers and visual assets. Prefer what can be made from real material this week. An external research hit can prompt a question; the brand still supplies the answer and proof.
-4. Match the reader's situation to a useful job using [the strategy guide](../clipflow-write/references/editorial-method.md). Choose a small set of distinct angles that serves the stated goal and fits capacity. Flag when multiple slots reuse the same underlying story, even if they answer different questions; suggest spacing or a different source when repetition would weaken the week. Format follows the material. Do not mandate daily posting, an arbitrary format mix, a replay loop or a number in every hook.
-5. Write stable plan slots using the shared fields. Connect each angle to evidence and its production dependency. Missing source-dependent assets make the slot provisional or a research task, not ready to shoot. Include timezone only when assigning actual times; a plan is not a scheduling action.
-6. Explain the trade-off when the requested output exceeds capacity. Offer a feasible sequence using existing assets, or identify what must change. Batch recordings with shared setup where useful.
+Read `content/brief.md`, `content/ideas.md` and any earlier `week-plan.md`. If
+there's no brief, run [clipflow-brand](../clipflow-brand/SKILL.md) first. Use
+the templates in [files](../clipflow-content/references/files.md) and follow the
+[ground rules](../clipflow-content/references/ground-rules.md).
 
-Output: the updated plan, the next piece to make, and unresolved dependencies. If writing is requested, hand the selected slot to [clipflow-write](../clipflow-write/SKILL.md) with its evidence, CTA and preserve rules. Do not impose another approval question before a local draft already requested by the user.
+## 1. Mine ideas from the material
 
-When the request also includes saving the plan or scheduling posts in Clipflow,
-carry the reviewed slots through [the Clipflow handoff](../clipflow-content/references/clipflow.md).
-Planning alone never changes the connected calendar.
+Go back through the transcripts with [finding ideas](references/finding-ideas.md)
+and add 10 to 15 ideas to `content/ideas.md`. Write each as a hook, not a topic:
+"Why your neck hurts more on Fridays", not "Neck pain". Tag each with where it
+comes from, down to the timestamps.
 
-Reuse the existing content library as well as fresh sources. A previously produced
-piece can be updated or adapted when the question remains relevant; check dates,
-offer availability and prior publication before proposing it as new. Keep a shared
-claim ledger across related slots and mark which source passages each uses.
-Choose the success measure from each piece's job, not views by default. Performance
-findings can suggest the next experiment without becoming universal posting rules.
+Look hardest for moments you can clip as they are: 20 to 60 seconds where they
+answer one question or tell one story, and it makes sense if it's the first
+thing a stranger hears. A good clip means the owner doesn't film anything new.
+
+## 2. Pick the week
+
+Default to three posts unless they asked for more or their time says fewer.
+Give the week a mix of jobs:
+
+| Job | What it is | Example |
+|---|---|---|
+| **Brings enquiries** | Answers a question people ask right before buying, and ends with a direct ask | "How much does a kitchen reno actually cost in Brisbane?" Book a quote |
+| **Builds trust** | A real story, a mistake, a result, how they actually work | The job that went wrong and what they changed |
+| **Easy clip** | A strong moment lifted from a recording with light editing | Their best 40 seconds from last week's live |
+
+One post can do two jobs. Don't use the same story twice in a week. Format
+follows the material:
+
+- Someone talking well on camera: clip it, or a short talking video (Reel, TikTok, Short).
+- Steps, a list, a before and after, a comparison: carousel.
+- An opinion with a reason, aimed at other professionals: text post (LinkedIn, Facebook).
+
+Post where they already post. Don't add platforms they didn't mention.
+
+## 3. Fit it to their time
+
+Give each post a time estimate and say they're estimates:
+
+| Post | Rough time |
+|---|---|
+| Clip from an existing recording, with captions | 20 to 30 min |
+| New talking video, one take, script provided | 30 to 60 min including setup |
+| Carousel from existing material | 30 to 45 min |
+| Text post | 10 to 15 min |
+
+If the week doesn't fit their time, cut a post. A plan of two posts that get
+made beats five that don't. Batch new filming into one session where you can.
+
+## 4. Write the plan
+
+Write `content/week-plan.md` with [the template](../clipflow-content/references/files.md):
+the table, then each post's hook, why it's in the week, what it's made from,
+the concrete to-do and the ask. Give exact trim points for clips. Mark used
+ideas in `ideas.md`.
+
+Add two or three backups, and a **Next time you film** list: 5 to 8 questions
+for their next recording session, picked to fill the brief's gaps (no reviews,
+no prices, no stories about X) and to give next week its posts.
+
+If results from earlier posts exist in `content/results.md`, let them shape the
+week, as the one change suggested there, not as a rulebook.
+
+## Hand back
+
+If planning was the last step, give the handover from
+[clipflow-content](../clipflow-content/SKILL.md): the week in one line per post
+and what they need to do. If writing was requested, continue to
+[clipflow-write](../clipflow-write/SKILL.md) for every post in the week.

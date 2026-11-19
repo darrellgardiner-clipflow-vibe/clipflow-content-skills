@@ -1,64 +1,64 @@
-# Short spoken video and text over footage
+# Short video: Reels, TikTok, Shorts and clips
 
-Read the brief and available transcript/footage. Determine whether this is a new
-script, an edit of existing speech, or silent text supported by footage. A natural
-piece may be a demonstration, a decision story, an explanation or a reaction;
-choose its argument before choosing a hook formula.
+Two kinds: a **clip** cut from something they already recorded, and a **new
+talking video** they'll film from your script. Both need on-screen text and a
+caption, because most people watch with the sound off at first.
 
-## Find the opening in the useful material
+## A clip from a recording
 
-State the takeaway and identify the concrete moment, question or consequence that
-makes it worth hearing. The opening may come from the middle of a transcript.
-When alternatives are useful, write a few genuinely different approaches and give
-a reason for each. Rank for relevance, clarity, support and delivery, not a score
-that claims to predict views. The hook must remain true with its qualifications.
+1. Give the trim points: start and end times from the transcript, where the
+   sentences start and end. Cut the wind-up ("so, um, yeah, I wanted to...").
+2. If there's a dead patch or a tangent in the middle, give a second cut:
+   "Cut 13:10 to 13:24."
+3. Write out what they say in the clip as the **Script**, as spoken, so they
+   can check it and caption it.
+4. Write the on-screen hook (eight words or fewer) for the first two or three
+   seconds, plus the key point on screen if it helps a muted viewer follow.
+5. Aim for 20 to 60 seconds. Longer is fine if it holds up. Don't cut a good
+   answer short to hit a number.
 
-For a demonstration, begin with the task or observable change. For a story, start
-at the constraint or event that matters. For an explanation, name the question or
-mistake and make the answer achievable. Do not force a contrarian claim or number
-when the evidence contains neither.
+## A new talking video
 
-## Build spoken beats
+Write it to be said, not read. Short sentences, the way they talk, their
+phrases from the brief. About 130 to 160 spoken words is roughly a minute,
+and that's an estimate. Most posts for a business work at 30 to 60 seconds.
 
-Give each beat a job: establish the situation, show why it matters, explain the
-mechanism, provide a concrete example, deliver the payoff. Use only the jobs this
-piece needs. For profile/case analysis, explain the repeatable behaviour and its
-conditions, not merely the impressive view count. Include supported effort,
-resources or starting circumstances when they help a viewer judge applicability.
+A shape that works for most business posts:
 
-Connect thoughts as the author would say them. Read the script aloud, shorten
-phrases that catch, and vary sentence lengths with the reasoning. Keep pauses and
-optional emphasis as production notes. A shared word in the first and last line
-is not proof of a natural loop; use a callback only if it helps the ending.
+| Beat | What it does | Length |
+|---|---|---|
+| Hook | The question, moment or mistake. See [hooks](../hooks.md) | 1 sentence |
+| Why it matters | The situation the viewer is in, made specific | 1 to 2 sentences |
+| The answer | What they'd actually tell a customer, with one real example or detail | 3 to 6 sentences |
+| The ask | One next step, said plainly | 1 sentence |
 
-Estimate duration from the author's measured speaking rate where available.
-Otherwise state the assumed rate and label the result approximate. Numbers,
-pauses and demonstrations change timing. Do not add filler to hit a duration or
-claim text estimates are measured retention evidence.
+Write the script as plain lines, one breath per line. Put any directions
+("hold up the bag", "cut to the desk") in brackets on their own line, and only
+when they help. Tell them it's fine to say it in their own words, and that one
+take with a stumble left in is fine.
 
-## Separate what is spoken, seen and written
+## On-screen text
 
-Deliver spoken copy, overlays, visual/shot suggestions and the caption separately.
-An overlay can compress the idea for a muted viewer rather than transcribe the
-entire opening. Keep cards short enough for the planned display time; inspect
-readability in production. Verify current destination safe areas if rendering;
-do not present a remembered pixel boundary as a platform specification.
+| When | Text |
+|---|---|
+| 0:00 to 0:03 | the hook, eight words or fewer |
+| 0:15 | the key point, if a muted viewer needs it |
+| last 3 seconds | the ask, e.g. "Book a Thursday assessment, link in bio" |
 
-Visual changes should explain or show something. Avoid mandatory cuts every few
-seconds. Mark shots as available, to capture or illustrative. Give real source
-clip times only when supplied or checked. A caption should add context or the
-author's relevant take rather than restate the whole voiceover.
+Keep each card short enough to read in the time it's on screen. Full spoken
+captions are separate: most apps can generate them automatically, so remind
+them to turn them on and check the spelling of names.
 
-## Silent text over footage
+## Caption
 
-Use one thought that can be read in the available time. Match the footage to the
-meaning and do not imply that a stock subject is the actual customer. Distinguish
-on-screen words from the caption. An unsupported dramatic number remains
-unsupported even when it appears only as an overlay.
+The caption adds something: a bit of context, the detail that didn't fit, or
+the answer written down for people who'd rather read. First line should work on
+its own, because it's what shows before "more". End with the same ask as the
+video. Keep hashtags out unless they already use them; then match their usual.
 
-## Handoff
+## Don't
 
-Provide the script, overlay/shot notes, caption when requested, estimated duration
-and assumptions, source/claim IDs and missing production items. Preserve the
-selected CTA and verify fulfilment. End on the useful payoff when no action is
-needed. This guide writes the edit brief; it does not cut or render footage.
+- Don't write a script that needs footage they don't have. Put "you'll need a
+  shot of X" in the notes if a visual matters.
+- Don't put their customer's face or name in it unless they said it's OK.
+- Don't add trending-audio advice or cut-every-two-seconds editing rules.

@@ -1,36 +1,33 @@
-# Offers, landing pages, comparisons and ads
+# Sales pages, offers and ads
 
-Use this when the purpose is persuasion toward a real offer. Establish the intended
-buyer, situation, arrival source, offer, mechanism, proof, material objection and
-next action. Educational content does not need this structure by default.
+Use this when the job is to sell a specific service or product. Check you know:
+who it's for, what they get, how it works, the price or how to find out, proof
+the owner gave you, the biggest doubt buyers have, and the one action to take.
+Ask for whatever's missing rather than inventing it.
 
-## Make the promise match the offer
+## Sales page or offer post
 
-Read actual product/service facts and the destination. Use customer language from
-real evidence where available. A stronger claim belongs in a proposal with what
-would make it true, not in finished copy. Avoid invented guarantees, limited stock,
-deadlines, testimonials or financial outcomes.
+1. **Headline:** the result or the problem, for the specific buyer, in their
+   words.
+2. **Who it's for**, and who it isn't for.
+3. **What they get** and **how it works**, step by step, plainly.
+4. **Proof:** real reviews, results or credentials from their material, with
+   permission noted. If there's none, show the process instead of making up
+   proof.
+5. **The doubt:** answer the question that stops most people booking (price,
+   time, "will it work for me").
+6. **The ask:** one button or one instruction, repeated at the end.
 
-The first screen or opening should continue the promise made by the referring ad,
-email or post. Explain the relevant value, demonstrate how it works, use proof
-that belongs to this offer, answer the buying objection and make the action clear.
-Choose section order from the reader's knowledge and the evidence, not a universal
-page recipe. Missing proof may require a demonstration and a narrower promise.
+No fake urgency, no guarantees they didn't offer, no "limited spots" unless
+it's true.
 
-## Comparisons
+## Ad
 
-Select criteria based on the reader's job, then compare like-for-like plans,
-capabilities, populations and dates. Unknown facts stay unknown. Verify changing
-prices and capabilities before publishing. Explain who each option fits and where
-this offer is a poor fit. Do not present a sales page as independent research.
+The ad and the page it sends people to must make the same promise. Write the
+main text, a headline and a description, plus a note on the image or video to
+use. Running ads, budgets and targeting are separate decisions for the owner.
 
-## Ads and destination continuity
+## Hand over
 
-Keep the audience, promise, creative evidence and destination aligned. Describe
-what needs to be seen as well as the words. Do not imply a stock subject is an
-actual customer or that a proposed visual proves a real outcome. Verify current
-platform requirements through the publishing workflow when an ad is to be run.
-
-Deliver requested copy fields and creative/section notes, with a claim ledger and
-unresolved offer dependencies outside the copy. Campaign setup, ad spend and live
-publication require their own supported tools and user authorization.
+Copy by section, ready to paste. In the notes: where each claim came from, and
+what still needs the owner (a price, a review's permission, a working link).

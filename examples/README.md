@@ -1,30 +1,22 @@
-# Try the workflow with fictional source material
+# Try it on sample material
 
-These exercises use invented businesses, people and records. They can be run
-locally with this repository and an agent; no private brand files, service
-connection, posting or paid research is needed.
-
-| Exercise | Request and relevant checks |
-|---|---|
-| [Cedar Desk](cedar-desk.md) | A small week and first post, with an unfinished CTA asset and unsupported competitor promise |
-| [Harbour Mill](harbour-mill.md) | Brand analysis, a spoken video, a carousel/caption and a later refresh; one story is reposted and an old offer has been corrected |
-| [Orbit Studio](orbit-studio.md) | An article, a company newsletter, a narrowly scoped caption edit and results from unequal observation windows |
-
-For example:
+[Northside Physio](northside-physio-live.md) is a made-up clinic with one
+Instagram Live transcript and a note from the owner. Copy it into a project
+folder and ask:
 
 ```text
-Use clipflow-content and the relevant bundled references to complete the request
-in examples/harbour-mill.md. Use only that fictional source material. Save the
-outputs in a separate local test folder. Complete the first request before
-applying the later refresh. Do not publish or call connected tools.
+Use clipflow-content. Here's a transcript of my Instagram Live and a note about
+my clinic. Plan this week's posts and write them.
 ```
 
-Inspect the actual outputs and original passages. Did the brand brief distinguish
-source coverage, authority and repeated evidence? Did each format do a distinct
-job? Did the narrow edit preserve unrelated wording? Did the review report a
-missing asset or unverified outcome instead of declaring everything ready?
-Keep style preference separate from factual defects.
+You should get a `content/` folder with a one-page brief, a week plan with
+three posts that fit an hour, a finished file for each post with trim times,
+on-screen text and a caption, and a short handover in chat.
 
-The source and plugin checks in `scripts/validate.py` are separate from these
-exercises. Passing them establishes metadata and local-reference consistency,
-not that an agent followed the editorial methods or that the output will perform.
+Things worth checking in what comes back:
+
+- Every fact in the posts is in the transcript. Nothing about recovery times,
+  reviews or prices, because the owner never gave any.
+- The clips use real timestamps, and the dog interruption at 13:10 is cut.
+- The posts sound like Sam ("it's a really expensive shelf"), not like an ad.
+- The plan asks the owner what a first visit costs, because nothing says.

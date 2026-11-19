@@ -1,25 +1,19 @@
-# Help articles and product instructions
+# How-to guides and instructions
 
-Start with the user's task or symptom and the verified product behaviour. A goal
-such as "connect an account" needs prerequisites, actions and a visible success
-condition. A concept explanation may need a diagram or example rather than steps.
+For when the owner wants to explain how to do something: aftercare
+instructions, how to book, how to prepare for an appointment, how to use a
+product they sell.
 
-Name the relevant user, role, product version and eligibility when they affect the
-instructions. Check UI labels and available behaviour against supplied current
-documentation or actual verified behaviour. A roadmap note cannot supply a current
-step. If verification is missing, label the procedure provisional and hold any
-claim that it has been tested.
+1. **Title:** the task, in the customer's words ("How to look after your new
+   tattoo").
+2. **Before you start:** anything they need first.
+3. **Steps:** numbered, one action each, in order, with what they should see
+   or feel when it's right.
+4. **If something goes wrong:** the most likely problem and what to do, and
+   when to contact the business.
 
-Put the direct answer or expected outcome first. Order steps by dependencies,
-explain a reason where it prevents confusion, and give the observable result.
-Include a fallback or next diagnostic for likely failure states. Do not invent
-settings, account permissions or screenshots. Request only the smallest missing
-diagnostic; never request passwords.
+Only include steps and advice the owner gave you. Health, safety, legal and
+money advice especially must come from them, word for word where possible. If
+a step is missing, leave a clear gap and ask.
 
-Use the user's wording for the task and the product's actual labels for controls.
-Keep screenshots tied to the relevant step and describe only what is visible.
-Accessibility text should explain the image's information, not repeat a filename.
-
-Deliver title, scope/prerequisites, instructions or explanation, success/failure
-states and source/verification notes. Test execution, CMS synchronization and
-live help publication are separate actions, not consequences of drafting.
+Hand over the guide ready to paste, with anything to check in the notes.

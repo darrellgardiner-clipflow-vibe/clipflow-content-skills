@@ -1,55 +1,41 @@
-# Social posts, captions and threads
+# Captions, text posts and threads
 
-Identify destination, account, author, reader situation and the useful point.
-Select the author's relevant samples rather than borrowing a generic social-media
-personality. A piece should make sense to someone who has never seen the source.
+## Text post (LinkedIn, Facebook, X)
 
-## Standalone text post
+Open with the moment, the question or the opinion. Then give the concrete
+example or the reasoning that earns it, then stop. One idea per post. If you
+have three points, that's three posts.
 
-Open on a recognizable moment, supported observation or clear position. Provide
-the concrete example or reasoning that earns it. End when the point is complete,
-with a question or action only when it has a job. A personal story requires actual
-experience; expertise does not need an invented vulnerability or credential boast.
+- Write it how they talk. Short paragraphs are fine for reading on a phone, but
+  don't break every sentence onto its own line as a staircase of punchlines.
+- A personal story has to be one they told. Expertise doesn't need a made-up
+  vulnerable moment.
+- Keep their uncertainty. "I think", "in our experience" and "most, not all"
+  make a post more believable.
+- End on the point, or the ask if the post has one. Skip "Thoughts?" and
+  "Agree?" unless it's how they always sign off.
 
-For professional audiences, connect the example to a decision or problem they
-recognize. For a short post, keep the strongest point and receipt; move secondary
-arguments into separate pieces instead of compressing them into vague slogans.
-Preserve relevant uncertainty, even when the opening would sound stronger without it.
+Around 100 to 250 words suits most business text posts. Shorter is fine.
 
-## Caption accompanying a visual
+## Caption under a video or carousel
 
-Inspect or obtain a description of the actual asset. Decide what the caption adds:
-missing context, a useful detail, a source credit or a supplied personal response.
-Do not describe the entire carousel again. Do not invent a person's opinion on a
-statistic merely because the caption is first person.
+Decide what the caption adds: the context, the detail that didn't fit, a
+written version of the answer, or the owner's take. Don't re-describe the video.
 
-Use account-specific paragraph and footer conventions only where provided.
-Allow an author's run-on thinking or informal wording to survive when intentional;
-do not manufacture errors. Familiar CTA wording is not automatically a problem.
-Check the resource, booking link or promised answer behind the ask.
+The first line is what people see before "more", so make it work on its own.
+End with the ask, worded the same as in the video or last slide.
 
-## Quote post or reaction
+## Reply or reaction to someone else's post
 
-Name the source/event and retain its uncertainty. Add the author's supported
-interpretation, a missing case, useful reasoning or relevant experience. Merely
-restating a source does not supply a new contribution. If no personal position is
-known, offer neutral analysis or ask for that position rather than inventing it.
+Say whose post and what they said, then add the owner's actual view or
+experience. If you don't know the owner's view, ask them rather than writing one.
 
-## Thread or connected sequence
+## Thread
 
-Outline the argument first. Each entry advances it with a distinct point and enough
-context to remain intelligible. Do not repeat the promise at every step or split
-one sentence across posts to manufacture a thread. Keep facts and attribution
-consistent; link to supporting material where the format permits.
+Plan the points first. Each post in the thread makes one point and makes sense
+on its own. Don't split one sentence across posts to make it longer.
 
-## Final check
+## Platform details
 
-Read the opening and ending together: does the body earn the implied promise?
-Read aloud for connected reasoning and varied rhythm. A few short paragraphs can
-help scanning; a staircase of punchlines is not a universal voice. Do not make
-platform length, hashtag, link or preview-truncation claims from memory. Verify
-technical limits when needed; report an unverified preview as an approximation.
-
-Deliver only the requested variants and destination fields, with sources and
-review notes outside the copy. A caption, title and overlay are different fields,
-not three interchangeable versions of the same sentence.
+Don't state character limits, hashtag counts or link rules from memory as
+fact. Their own past posts are the best guide to what they do on each platform.

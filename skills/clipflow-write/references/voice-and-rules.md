@@ -1,54 +1,40 @@
-# Apply voice and instructions in their scope
+# Keep their voice
 
-Start with the business's own directions and samples. Keep separate the brand's
-positioning, the individual author, the destination account, the content format,
-a recurring series and the current piece. A formatting convention from one
-account should not become a voice rule for every author and channel.
+The test is simple: would the owner read it out loud without wincing, and would
+a regular customer recognise them in it?
 
-## Choose and resolve rules
+## Where their voice comes from
 
-- **Requirements** must hold within their stated scope: factual accuracy, privacy,
-  approved offer terms and required destination fields, for example.
-- **Defaults** guide editorial choices until a more specific authorized instruction
-  changes them: length, paragraph treatment or a preferred opening.
-- **Experiments** have a hypothesis and a review plan; popularity does not make them policy.
+1. The "How they talk" section of `content/brief.md`, if there is one.
+2. Their own sentences in the transcript you're working from. These beat
+   everything else, because it's how they actually explain this topic.
+3. Past posts they wrote themselves. Posts an agency or freelancer wrote may
+   not sound like them, so ask if you're unsure.
 
-Keep authority separate from evidence status. An owner can set a style preference
-without proving that it improves reach. A popular creator can demonstrate a tactic
-without making it appropriate for this business.
+If you have none of these, write plainly and say in the notes that the voice is
+a first guess.
 
-Apply the user's current request and the instructions governing the project.
-Then use the most relevant maintained owner for each concern. Resolve editorial
-defaults at the narrowest applicable level: piece, series, account/format, author,
-brand. Do not resolve disagreements by counting repeated instructions or choosing
-the most recently edited file. If the conflict changes truth or identity, retain
-the narrower supported claim or ask for the missing decision.
+## Do
 
-Record a meaningful override in the brief: setting, inherited instruction,
-replacement, scope, reason and source of authorization. Leave unspecified fields
-inherited or unknown; use explicit `none` when no CTA or product mention is intended.
+- Reuse their phrases, their examples and their way of explaining. If they say
+  "your neck's been holding your head up all week", use that over a tidier line.
+- Keep contractions, the odd bit of roughness, local words and their sense of
+  humour, if they have one.
+- Keep their hedges and opinions as they said them. "Most of the time" stays
+  "most of the time".
+- Match how formal they are. A plumber and a lawyer can both be plain, at
+  different levels of formality.
 
-## Learn the author through decisions
+## Don't
 
-Select examples of the requested author in a comparable context. Observe how they
-introduce a situation, connect ideas, express uncertainty and address the audience.
-Use excerpts to explain those choices. Compare approved edits with earlier drafts:
-what changed, why, and for which format? Record a provisional observation when
-coverage is thin. Do not convert a one-off phrase into a universal voice rule.
+- Don't turn their explanation into slogans or a list of punchy fragments.
+- Don't add personality they don't have: no slang, emoji, confessions or
+  catchphrases they never used.
+- Don't change their call to action wording if they have one they like.
+- Don't put words in a customer's or anyone else's mouth.
 
-Preserve an author's actual doubts and opinions. A sourced statistic can stand
-without an invented personal reaction. When writing about a third party, the
-body may explain their argument in a neutral register while the caption contains
-the author's own supplied response. Keep those roles distinct.
+## When instructions disagree
 
-## Edit without flattening
-
-Preserve deliberate roughness, contractions, unusual paragraphing and selected
-CTAs when they serve the user's intent. Correct factual mistakes and solve the
-requested problem; do not rewrite everything into tidy slogans. Do not add typos,
-slang, confessions or emotional reactions as artificial personality.
-
-When no strong voice evidence exists, write clear, specific language and label
-the voice provisional. A business's subject matter does not determine its tone.
-A restaurant, engineering firm and arts charity can all use a plain voice with
-different levels of detail, humour and formality.
+What they asked for in this conversation wins, then the brief, then their past
+posts, then these guides. If following a style preference would make a post
+untrue, keep it true and tell them.

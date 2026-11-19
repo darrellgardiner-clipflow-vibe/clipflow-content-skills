@@ -1,57 +1,83 @@
 ---
 name: clipflow-content
 metadata:
-  version: "1.1.0"
-description: Coordinate a brand-to-content workflow using skill-based Brand Lens analysis of supplied evidence, with an optional Clipflow connector for requested workspace, scheduling or publishing actions. Use for requests spanning brand understanding, a content week, drafting and review; route single-stage requests to the corresponding clipflow-brand, clipflow-plan, clipflow-write or clipflow-review skill.
+  version: "2.0.0"
+description: Turn a business owner's own videos, recordings, transcripts, past posts or interview answers into a short brand brief, a week of posts they can actually make, and finished drafts in their voice. Use when someone asks what to post, wants a content plan, wants reels, captions or posts made from a video, call, livestream or transcript, or asks for the whole routine. Single steps can go straight to clipflow-brand, clipflow-plan, clipflow-write or clipflow-review.
 ---
 
-# Plan and create content for a business
+# Content from what you already have
 
-Help a business decide what to make and turn its knowledge, experience and
-source material into content its customers will find useful. Carry the business
-context through planning, writing and review so the user does not have to
-explain it again at each step.
+The person asking is usually a business owner, not a marketer. They want to
+know what to post this week and to have it written, using their own material,
+without learning a framework. Work like a good content producer would: read
+everything they hand over, make the decisions, and come back with posts they
+can film or publish today.
 
-## Start with the business and the job
+## 1. See what they've got
 
-Read the request and any existing brief or source material. Establish what the
-business does, who the content is for, what those people need help with and what
-the business wants this piece or plan to achieve. Check where it will appear
-and whether it is written as the company or a named person.
+Look at what they attached or pointed you at before asking anything. Sort it:
 
-Use the material already available: customer questions, product demonstrations,
-work examples, interviews, recordings, existing posts or approved brand notes.
-A business does not need all of these to begin. If a missing answer would change
-the work, ask for it; otherwise state a reasonable working assumption and proceed.
-For a single caption or edit, use the relevant context without requiring a full
-brand exercise or weekly plan.
+| They have | Do this |
+|---|---|
+| Video or audio files (`.mp4 .mov .webm .m4a .mp3 .wav`) | Transcribe them with timestamps. See [getting material](references/getting-material.md) |
+| Transcripts or captions (`.txt .vtt .srt .docx`, auto-captions) | Clean them up and keep the timestamps |
+| Past posts, captions, website or sales copy, notes on the offer | Read them for voice, offer and what they already said |
+| Insights screenshots or analytics exports | Use them in the review step |
+| Nothing yet | Run the interview in [getting material](references/getting-material.md) |
 
-Read [the shared handoff](references/handoff.md) to carry decisions and sources
-between stages. Resolve the linked skills relative to this file. Installation
-and folder-copying instructions are in [installation](references/install.md).
+Ask one batch of questions at most, and only for what you can't find or
+reasonably assume: what they sell and who they want more of, where they post,
+and how much time they have this week. If they say "just go", assume three
+posts, the platforms they mention (Instagram if none), and about an hour of
+work, then say what you assumed in the handover.
 
-## Route by the requested outcome
+## 2. Do the steps they asked for
 
-| Need | Owner | Result |
-|---|---|---|
-| Understand a business, audience, offer or voice | [clipflow-brand](../clipflow-brand/SKILL.md) | Source notes, assessed claims and maintained brand/voice knowledge |
-| Decide what can be made this week | [clipflow-plan](../clipflow-plan/SKILL.md) | Feasible slots with sources, purpose and production needs |
-| Write one selected piece | [clipflow-write](../clipflow-write/SKILL.md) | Format-specific draft, source map and production notes |
-| Check a piece or learn from results | [clipflow-review](../clipflow-review/SKILL.md) | Actionable review, or bounded performance findings |
+| They want | Steps |
+|---|---|
+| "What should I post?" / "Plan my week" | [brand](../clipflow-brand/SKILL.md), then [plan](../clipflow-plan/SKILL.md) |
+| "Make posts from this video" / "Do the whole thing" | brand, plan, [write](../clipflow-write/SKILL.md) every post in the week, [review](../clipflow-review/SKILL.md) each one |
+| One caption, script or edit | write, then review. Read the brief if one exists; don't make them do onboarding for a caption |
+| "How did my posts do?" | review (results) |
 
-Start at the first incomplete stage needed for the request. Reuse an existing brief or plan; do not repeat onboarding when the answer is already present. Complete all stages the user requested, without adding an approval stop between reversible local stages. A request for a plan alone stops at the plan. A request for one piece does not produce a whole campaign.
+Reuse a brief or plan that already exists. Don't stop to ask for approval
+between steps they already asked for. Review every draft and apply the fixes
+before you show it to them, so they see the finished version.
 
-The pack includes the methods for source extraction, editorial strategy, rule/voice composition and format-specific writing. Read only the references needed by the stage and format; no private writing library is required.
+## 3. Save files they can find
 
-Use the [Brand Lens skill workflow](../clipflow-brand/SKILL.md) to turn supplied sources into a working brand brief, or reuse an existing brief. Read [sources](references/sources.md) for evidence handling. No separate Brand Lens service is required. When the user requests actions in Clipflow, follow [the Clipflow handoff](references/clipflow.md) using the tools actually connected to their account.
+Write everything into a `content/` folder in their project (or the folder they
+name), using the layout and templates in [files](references/files.md). If that
+folder already exists, read it first and add to it. Never wipe their edits.
 
-At each handoff preserve the brand/account, evidence references, source dates, standing, open questions, available assets and selected next action. Keep one working record in the existing content project. Report which stages completed, artifact paths and any material gaps. Readiness and publication permission remain separate.
+The copy they will post goes in the post files without source tags or notes in
+it. Notes, sources and checks go underneath, clearly separated.
 
-## Usage
+## 4. Hand over in plain words
 
-- "Understand this business from these transcripts and approved examples."
-- "Plan three pieces for next week; I have one recording session."
-- "Use the existing brand brief and write slot P2 as a Reel."
-- "Review this draft, preserving the deliberate comment-keyword CTA."
+End in chat with a short handover, under about 150 words:
 
-Use supplied brand rules and the manual path. When the project has an established writing workflow, follow [project integration](references/project.md). The standalone pack creates planning and writing artifacts. A connected Clipflow account can take supported scheduling or publishing actions when requested; the skills do not provide those services themselves.
+1. Where the files are.
+2. The week, one line per post: what it is and what it's made from.
+3. What they need to do: film this, trim that clip at 12:40, check the booking link.
+4. One question, only if a real decision is waiting on them.
+
+Don't paste the whole brief or every post into chat; they can open the files.
+Write the handover the way you'd text a busy client. Avoid words like
+"evidence", "artifact", "slot", "workflow" or "deliverable".
+
+## Rules that always apply
+
+Read [ground rules](references/ground-rules.md) once per session. In short:
+
+- Every fact, number, story and result comes from their material. Never invent
+  testimonials, client stories, stats or credentials. If a post needs one you
+  don't have, leave a clear gap for them to fill, or pick a different post.
+- Don't upload their recordings to another service, and don't install anything,
+  without asking first.
+- Don't post, schedule or send anything unless they ask. Saving to Clipflow is
+  optional: see [the Clipflow connector](references/clipflow.md).
+- Keep customers' private details out of public copy.
+
+A finished example of the brief, plan and a post is in
+[example](references/example.md). Match that level of finish.

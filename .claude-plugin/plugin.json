@@ -1,7 +1,7 @@
 {
   "name": "clipflow-content",
-  "version": "1.1.0",
-  "description": "Skill-based Brand Lens analysis, content planning, writing and review, with an optional Clipflow connector for requested scheduling and publishing.",
+  "version": "2.0.0",
+  "description": "Turn a business's own videos, recordings and posts into a brand brief, a week plan and finished posts in their voice, with an optional Clipflow connector.",
   "author": {
     "name": "Clipflow"
   },

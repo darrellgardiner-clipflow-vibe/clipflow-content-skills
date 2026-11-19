@@ -1,62 +1,66 @@
 ---
 name: clipflow-write
 metadata:
-  version: "1.1.0"
-description: Create, edit or adapt business content using a source-grounded brief, scoped voice rules and bundled format-specific writing methods. Use for scripts, carousels, posts, articles, email, sales copy or help; also extracts distinct pieces from a supplied source. No private writing system or additional writer is required.
+  version: "2.0.0"
+description: Write finished, ready-to-post content in a business owner's own voice from their recordings and brief, covering reel and short video scripts, clips cut from existing footage, on-screen text, carousels, captions and text posts, plus articles, emails and sales copy. Use when someone asks to write a post, script, caption or carousel, to turn part of a video into a post, or to edit a draft.
 ---
 
-# Write the piece the reader needs
+# Write the post
 
-Start with the business's intended reader, the requested job and the material
-available. Reuse an existing plan slot or brief; a direct request does not need
-a complete brand analysis or weekly plan.
+The owner should be able to film or paste what you hand them without rewriting
+it. That means their words, a first line that works on a stranger, a body that
+pays off the hook, one clear ask, and every field the format needs.
 
-Read [the editorial method](references/editorial-method.md) to interpret the mode,
-read sources, select an angle and build the argument. Read [voice and rules](references/voice-and-rules.md)
-when selecting author samples, composing instructions or resolving feedback. Use
-[patterns](references/patterns.md) when a structure helps the material.
+Read `content/brief.md` and the post's entry in `content/week-plan.md` if they
+exist. For a one-off request, read whatever they gave you; you don't need a
+full brief to write one caption. Follow the
+[ground rules](../clipflow-content/references/ground-rules.md) and save to the
+post template in [files](../clipflow-content/references/files.md).
 
-## Select the format method
+## 1. Go back to the source
 
-Read only the guide relevant to this deliverable. For adaptations, inspect both
-the original's meaning and the destination method. Platform and argument type are
-separate choices: a decision story can become a video, carousel or article.
+Open the transcript at the timestamps the plan points to and read a minute on
+either side. The owner's own sentences are the best copy you have. Lift them,
+trim them, reorder them, and only write new lines to connect or clarify.
+Check every fact in the post against what they said.
 
-| Requested piece | Method |
+## 2. Write three hooks and pick one
+
+Use [hooks](references/hooks.md). Write three different kinds, pick the one
+that's most specific and most true, and say why in one line. Put all three in
+the post file so the owner can swap.
+
+## 3. Write it in the right shape
+
+Read only the guide for this format:
+
+| Post | Guide |
 |---|---|
-| Reel, short spoken script, silent text over footage | [Short video](references/formats/short-video.md) |
-| Carousel slide copy, caption and visual brief | [Carousel](references/formats/carousel.md) |
-| Social post, caption, quote post or thread | [Social writing](references/formats/social.md) |
-| Blog, guide, founder essay or progress article | [Articles and essays](references/formats/article.md) |
-| Newsletter, sequence email, broadcast or customer reply | [Email and messages](references/formats/email.md) |
-| Long-form video script and packaging brief | [Long video](references/formats/long-video.md) |
-| Offer, landing page, comparison or ad copy | [Sales copy](references/formats/sales-copy.md) |
-| Help article or product instructions | [Help](references/formats/help.md) |
+| Reel, TikTok, Short, talking video, or a clip from a recording | [Short video](references/formats/short-video.md) |
+| Carousel | [Carousel](references/formats/carousel.md) |
+| Caption, text post, LinkedIn or Facebook post, thread | [Social posts](references/formats/social.md) |
+| Blog post or guide | [Articles](references/formats/article.md) |
+| Newsletter or email | [Email](references/formats/email.md) |
+| YouTube video script | [Long video](references/formats/long-video.md) |
+| Sales page, offer or ad | [Sales copy](references/formats/sales-copy.md) |
+| Help or how-to instructions | [Help](references/formats/help.md) |
 
-## Work through the piece
+Use a [pattern](references/patterns.md) when the material fits one. Keep their
+voice with [voice](references/voice-and-rules.md).
 
-1. Resolve mode, author/account, reader situation and question, supported answer,
-   purpose, destination, desired response or `none`, preserve list and edit scope.
-2. Select relevant evidence and voice samples. Inspect passages behind public
-   claims. Keep dates, attribution, speaker ownership and qualifications intact.
-3. For an ambiguous angle, compare a few by payoff, support, author fit and
-   production needs. Reject a promise requiring invented proof or opinion.
-4. Outline the argument in headings, slide jobs or spoken beats before writing.
-   Link the consequential points to evidence. Use the selected format method to
-   produce the actual requested fields, not a generic paragraph for every channel.
-5. Read for natural cadence and useful progression. Preserve deliberate CTAs,
-   uncertainty and author wording. Verify the promised resource/destination; an
-   unavailable asset creates a dependency rather than a reason to hide the ask.
-6. Save public copy separately from source/production notes. Run [clipflow-review](../clipflow-review/SKILL.md)
-   on the final saved revision and apply any additional supplied project checks.
+## 4. Check it, fix it, save it
 
-For several pieces from one source, use the extraction and repurposing method in
-[the editorial guide](references/editorial-method.md). Share claim grounding while
-choosing distinct reader jobs and destination-specific openings and structures.
+Run [clipflow-review](../clipflow-review/SKILL.md) on the saved post and apply
+its fixes before handing over. The copy they'll post stays clean; tags, trim
+points, things to film and anything they must check go under **Notes**.
 
-Use [the brief fields](references/brief.md) where a new piece record is needed.
-Existing business instructions remain relevant through [project integration](../clipflow-content/references/project.md),
-but every format method required above is included here. Do not claim a rendered
-asset or completed edit from a copy/production brief. For requested Clipflow
-workspace, scheduling or publishing actions, use [the connector handoff](../clipflow-content/references/clipflow.md)
-after the applicable review; the connection is optional for local work.
+## Editing their draft
+
+When they hand you their own draft, change only what they asked about, plus
+anything untrue. Keep their wording, their roughness and their call to action.
+Show what you changed in a line or two.
+
+## Several posts from one recording
+
+Each post needs its own question or story. Changing the hook on the same point
+doesn't make a new post. Keep facts and numbers the same across all of them.

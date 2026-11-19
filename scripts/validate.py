@@ -30,6 +30,8 @@ def validate(root):
         text = path.read_text()
         if re.search(r"/Users/|/home/|https?://[^\s]+\.ts\.net", text):
             errors.append(f"{path.relative_to(root)}: host-specific path or address")
+        if "\u2014" in text:
+            errors.append(f"{path.relative_to(root)}: contains a long dash")
         for link in re.findall(r"\]\(([^)]+)\)", text):
             if link.startswith(("https://", "http://", "#", "mailto:")):
                 continue

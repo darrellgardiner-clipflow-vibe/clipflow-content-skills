@@ -1,21 +1,9 @@
-# Install the five-skill pack
+# Installing the pack
 
-Keep these five sibling folders together: `clipflow-content`, `clipflow-brand`,
-`clipflow-plan`, `clipflow-write`, `clipflow-review`. Relative references connect
-them. You can read the source files directly without provider registration.
+Keep the five folders together in the same skills folder: `clipflow-content`,
+`clipflow-brand`, `clipflow-plan`, `clipflow-write` and `clipflow-review`. They
+link to each other's files, so one on its own won't work properly.
 
-Use the installation instructions in the repository README for Claude Code,
-or copy the five folders into your agent's configured skills directory.
-Check existing same-named skills before copying; do not overwrite another
-installation without the user's intent. Reload the agent's skill catalog
-when its interface requires it.
-
-The Brand Lens workflow runs as skills from this pack and supplied source
-material. It needs no separate Brand Lens service. Optionally connect your
-Clipflow account through your agent's supported connection setup to perform
-requested workspace, scheduling or publishing actions. No account, credentials
-or service connection is bundled in this repository.
-
-The method, format and review guides are included inside the five skill folders.
-Copy their `references/` directories intact. No private writing files or hook
-archive are required. Only the references selected for the task need to be read.
+The repository README has the install commands for Claude Code and Codex. If
+same-named skills already exist, check with the owner before replacing them.
+Restart the agent or reload its skills afterwards if it doesn't pick them up.

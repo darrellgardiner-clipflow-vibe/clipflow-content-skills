@@ -7,9 +7,9 @@
     {
       "name": "clipflow-content",
       "source": "./",
-      "description": "Brand-to-content skills with an optional Clipflow connector.",
+      "description": "Brief, week plan and finished posts from your own videos, recordings and past posts.",
       "category": "productivity"
     }
   ],
-  "description": "Brand Lens as skills, connected content workflows and optional Clipflow actions."
+  "description": "Content skills for business owners: from your own recordings to a week of finished posts."
 }

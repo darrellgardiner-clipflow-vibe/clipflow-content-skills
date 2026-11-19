@@ -1,47 +1,34 @@
-# Email, newsletter and customer messages
+# Newsletters and emails
 
-Identify who receives the message, why now, their relationship to the business,
-the reader's question and the useful next response. Separate an edition, a sequence
-step, a promotional email and a support reply; they should not share one template.
+Know who's getting it and why now: past customers, people who enquired, a
+mailing list, one person who asked a question.
 
-## Broadcast or newsletter
+## Newsletter
 
-Choose one reason for this edition to exist. A deep dive develops one argument;
-a roundup selects items by a stated reader question; a personal note needs the
-author's actual experience. Do not turn a mixed source list into a roundup unless
-the selection is meaningful to subscribers.
+One reason for this email to exist. A tip they can use this week, a story from
+the business, an answer to a question customers keep asking, or news (a new
+service, a change in hours). Not all four.
 
-Write the subject and preview text against the final body. They may create
-curiosity but must not promise a result or news absent from the email. Give the
-reader a useful point early, then develop the explanation or selected items with
-enough context to understand them without following every link.
+- **Subject:** say what's inside, in plain words. Curiosity is fine, but the
+  email has to deliver what the subject promises.
+- **Preview text:** the line after the subject. Make it add to the subject
+  rather than repeat it.
+- **Body:** get to the useful part in the first few lines. Write like a note to
+  one customer. Short paragraphs, no corporate sign-off.
+- **One ask:** reply, book, call, read. Put the link where it's needed.
 
-## Sequence step
+## Sales or offer email
 
-Read the trigger, recipient state, relevant earlier/later steps, offer and intended
-action. This message should advance that state rather than repeat an entire
-welcome or sales pitch. Avoid assuming they completed a task merely because an
-email was sent. State eligibility, deadlines and terms only when supported.
+Who it's for, what they get, how it works, what it costs or how to find out,
+and how to book. Answer the one doubt most people have. No fake deadlines, no
+invented spots-left counts, no testimonials you don't have.
 
-For an offer, explain the relevant value and mechanism, answer the important
-objection and provide a working destination. Verify any promised resource and
-preserve the selected CTA. Do not invent urgency, customer outcomes or scarcity.
+## Reply to a customer
 
-## Customer reply
+Answer their question first. Then the next step, and what to do if that
+doesn't work. Keep it as short as the question.
 
-Answer the actual question or known status first. Give the necessary prerequisite,
-verified next step and expected result, with the next diagnostic if it fails.
-Do not guess account state or turn resolution into a promotional sequence.
-Keep the reply proportionate to the issue and preserve the sender's context.
+## Hand over
 
-## Editing and handoff
-
-Use connected paragraphs and headings only where useful to scanning. Retain
-actual lists, not bullets that split a narrative into fragments. Keep deliberate
-informality and honest doubt. Confirm links, names, terms and attachments against
-what is actually supplied; an unavailable attachment is a delivery dependency.
-
-Deliver requested fields separately: subject, preview and body, or reply body
-only. Add recipient/trigger assumptions and unresolved checks outside the copy.
-Sending email requires a separate supported delivery tool and the user's scope;
-a Clipflow connection is not evidence of an email-sending capability.
+Subject, preview text and body as separate fields, ready to paste. Put
+anything to check (links, prices, dates) in the notes. Sending is up to them.

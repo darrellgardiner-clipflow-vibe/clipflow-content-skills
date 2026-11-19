@@ -1,48 +1,37 @@
-# Long-form video script and packaging brief
+# YouTube and longer videos
 
-Use the completed research, the author's available experience and the intended
-viewer question. If evidence is thin, narrow the promise or identify the research
-gap before scripting an extended argument. A plausible personal anecdote is not
-an acceptable substitute for a source.
+A longer video answers one question properly. Pick the question first, check
+the owner's material can answer it, then write.
 
-## Set the packaging promise
+## Title and opening
 
-Draft a working title and opening promise that the available material can deliver.
-Note a possible thumbnail idea separately from the script. Neither needs a fake
-number or emergency to create interest. If supplied packaging overstates the
-research, revise the promise rather than making the script repeat it.
+Write a working title that says what the viewer gets, and two alternatives.
+The first 30 seconds should say who this is for, what they'll know by the end,
+and why the owner is worth listening to on it (something they actually did or
+know, from the material).
 
-## Build a question-led chapter map
+Note a thumbnail idea separately: one image and at most four words.
 
-Identify the context the viewer needs, the main questions, the evidence answering
-each and the logical transitions. Each chapter should resolve something and make
-the next question meaningful. Do not force two opposing outcomes or delay the
-answer solely to create suspense.
+## Outline first
 
-Match the treatment to the material: explanation, demonstration, case comparison,
-interview synthesis or first-person story. Mark what will be shown as evidence,
-illustration or proposed capture. A demonstration needs observable steps; a chart
-needs actual data. Keep speculative scenarios clearly labelled.
+List the parts of the answer in the order a viewer needs them. Each part
+answers something and sets up the next. Note what's shown on screen for each:
+the owner talking, a demonstration, a photo, a clip from an old recording.
 
-## Write for a spoken explanation
+## Script
 
-Use the author's actual vocabulary and connecting thoughts. Alternate concrete
-example and explanation so an abstract point becomes understandable. Introduce
-sources where they support the reasoning; a list of famous names is not proof.
-State uncertainty when it affects the answer, not as a vague opening disclaimer.
+Write it to be said, in their words. Explain, then give an example, then move
+on. Put on-screen directions in brackets on their own lines, out of the spoken
+part. About 140 words is roughly a minute spoken, as an estimate; leave room
+for demonstrations.
 
-Put visual directions and source links in their own column or notes. Keep them
-out of dialogue. Read the script aloud to find difficult phrases and repetitive
-transitions. Use measured speaking rate where possible and leave time for pauses,
-clips and demonstrations; estimates are not a tested runtime.
+## Ending
 
-## Finish and hand off
+Come back to the question with the answer. One ask: book, subscribe, watch the
+next video. Don't summarise every section again.
 
-Return to the question with the answer the evidence supports, including remaining
-limits or the next practical step. A callback is useful when it completes the
-argument; it is optional. Product mentions and subscription asks need a purpose.
+## Hand over
 
-Deliver spoken script, chapter map, title options when requested, thumbnail brief,
-source map and capture/edit dependencies. Preserve verified times for selected
-existing clips, and label new scene timing as estimated. Do not claim a complete
-video, rendered thumbnail or checked live embed from a script alone.
+Title options, thumbnail idea, outline with times as estimates, script, and in
+the notes: what to film, any existing clips with their timestamps, and things
+to check.
