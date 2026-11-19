@@ -1,8 +1,9 @@
 # Clipflow content skills
 
-Five connected agent skills for understanding a brand, planning content,
-writing a piece and reviewing it. Use your own documents, posts, recordings
-and transcripts. The Brand Lens workflow runs as skills; connect Clipflow when
+Five agent skills to help a business understand its audience and voice, decide
+what content to make, write it and review it. Start with the material you have:
+customer questions, work examples, product information, posts, recordings or
+transcripts. The Brand Lens workflow runs as skills; connect Clipflow when
 you want to take the finished work into your content calendar and publishing.
 
 The same brief and evidence travel through the workflow, so you do not have

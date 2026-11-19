@@ -1,15 +1,34 @@
 ---
 name: clipflow-content
 metadata:
-  version: "1.0.1"
+  version: "1.0.2"
 description: Coordinate a brand-to-content workflow using skill-based Brand Lens analysis of supplied evidence, with an optional Clipflow connector for requested workspace, scheduling or publishing actions. Use for requests spanning brand understanding, a content week, drafting and review; route single-stage requests to the corresponding clipflow-brand, clipflow-plan, clipflow-write or clipflow-review skill.
 ---
 
-# Content from brand evidence
+# Plan and create content for a business
 
-Turn a request such as "use our recent recordings to plan next week and write Tuesday" into connected work with one shared brief. This pack supports any brand; its name does not select Clipflow as the speaker.
+Help a business decide what to make and turn its knowledge, experience and
+source material into content its customers will find useful. Carry the business
+context through planning, writing and review so the user does not have to
+explain it again at each step.
 
-Read [the shared handoff](references/handoff.md) first. Resolve sibling skills relative to this folder, never from the shell's working directory. Keep all five `clipflow-*` folders together when copying the pack. See [installation](references/install.md) when registering or copying them.
+## Start with the business and the job
+
+Read the request and any existing brief or source material. Establish what the
+business does, who the content is for, what those people need help with and what
+the business wants this piece or plan to achieve. Check where it will appear
+and whether it is written as the company or a named person.
+
+Use the material already available: customer questions, product demonstrations,
+work examples, interviews, recordings, existing posts or approved brand notes.
+A business does not need all of these to begin. If a missing answer would change
+the work, ask for it; otherwise state a reasonable working assumption and proceed.
+For a single caption or edit, use the relevant context without requiring a full
+brand exercise or weekly plan.
+
+Read [the shared handoff](references/handoff.md) to carry decisions and sources
+between stages. Resolve the linked skills relative to this file. Installation
+and folder-copying instructions are in [installation](references/install.md).
 
 ## Route by the requested outcome
 

@@ -1,17 +1,19 @@
 # Existing project integration
 
-This pack works from supplied evidence without a separate writing system.
-When a project already has instructions, a writing router, channel writers,
-brand profiles or review requirements, read and reuse the relevant owners.
-Do not create a second source of truth or silently replace their rules.
+Use the business's existing brand guide, content calendar and approval process
+when they are available. Keep the current brief and sources together rather
+than creating another parallel set of documents.
 
-Use the shared handoff fields inside the existing brief and calendar. Keep
-client identities separate. The Clipflow name does not select a voice,
-first-person history, offer or audience for an unrelated client.
+For an agency managing several clients, keep each client's audience, offers,
+voice samples and claims with that client's work. For a business with several
+authors, distinguish company statements from an individual's experiences and
+opinions. Select the appropriate author and account before drafting.
 
-Load only the selected channel and brand references. Follow their review
-order and report unavailable required checks. If no project-specific owner
-exists, use the standalone drafting and review instructions in this pack.
+If the user has established writing instructions or specialist skills for a
+format, apply the relevant ones. They are optional inputs: a business starting
+from its website, a few examples and a customer question can use this pack
+without maintaining a writing system of its own. Review against the supplied
+brief and the checks in this pack when no additional requirements exist.
 
 Keep deliberate CTAs when they serve the brief. Check the promised item,
 destination and fulfilment instead of deleting an ask for sounding familiar.
