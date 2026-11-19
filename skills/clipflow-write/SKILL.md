@@ -1,7 +1,7 @@
 ---
 name: clipflow-write
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
 description: Draft one selected content piece from a brand brief or plan slot, preserving evidence, speaker voice and deliberate CTAs. Use for a Reel script, caption, carousel copy or article within a brand-to-content workflow; reuse the existing project's channel writer and review requirements when provided.
 ---
 
@@ -16,4 +16,4 @@ Read [the shared handoff](../clipflow-content/references/handoff.md). Read [proj
 5. Preserve deliberate CTAs and the promise behind them. If the destination, asset or fulfilment is unknown, flag that dependency. Avoid replacing precise wording or deleting an ask merely to pass a style heuristic. Preserve meaningful punctuation, Unicode and joined emoji in any mechanical cleanup.
 6. Save public copy separately from source/production notes in the existing piece folder. Pass that saved revision to [clipflow-review](../clipflow-review/SKILL.md). Run any applicable project/channel review requirements; do not label the piece ready based on this skill alone.
 
-For standalone use, follow the supplied brand rules and format requirements. The minimum review still checks source fidelity, voice, clear delivery, feasibility and CTA fulfilment. Do not pretend an unavailable local channel skill ran. Rendering, editing footage, publishing and scheduling remain with their existing owners.
+For standalone use, follow the supplied brand rules and format requirements. The minimum review still checks source fidelity, voice, clear delivery, feasibility and CTA fulfilment. Do not pretend an unavailable local channel skill ran. Rendering and footage editing remain outside this pack. When the request includes saving, scheduling or publishing in Clipflow, follow [the connector handoff](../clipflow-content/references/clipflow.md) after the applicable review.

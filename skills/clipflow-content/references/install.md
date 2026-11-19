@@ -10,7 +10,8 @@ Check existing same-named skills before copying; do not overwrite another
 installation without the user's intent. Reload the agent's skill catalog
 when its interface requires it.
 
-The manual workflow needs only this pack and supplied source material.
-Connected mode uses the actual tools or documented CLI/API of the user's
-Brand Lens deployment. No service, credentials or data is included here.
-Content Radar is an optional research input, not a bundled connector.
+The Brand Lens workflow runs as skills from this pack and supplied source
+material. It needs no separate Brand Lens service. Optionally connect your
+Clipflow account through your agent's supported connection setup to perform
+requested workspace, scheduling or publishing actions. No account, credentials
+or service connection is bundled in this repository.

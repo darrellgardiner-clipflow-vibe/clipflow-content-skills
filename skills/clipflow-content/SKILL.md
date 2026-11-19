@@ -1,8 +1,8 @@
 ---
 name: clipflow-content
 metadata:
-  version: "1.0.0"
-description: Coordinate a brand-to-content workflow from supplied evidence or connected Brand Lens tools. Use for requests spanning brand understanding, a content week, drafting and review; route single-stage requests to the corresponding clipflow-brand, clipflow-plan, clipflow-write or clipflow-review skill.
+  version: "1.0.1"
+description: Coordinate a brand-to-content workflow using skill-based Brand Lens analysis of supplied evidence, with an optional Clipflow connector for requested workspace, scheduling or publishing actions. Use for requests spanning brand understanding, a content week, drafting and review; route single-stage requests to the corresponding clipflow-brand, clipflow-plan, clipflow-write or clipflow-review skill.
 ---
 
 # Content from brand evidence
@@ -22,7 +22,7 @@ Read [the shared handoff](references/handoff.md) first. Resolve sibling skills r
 
 Start at the first incomplete stage needed for the request. Reuse an existing brief or plan; do not repeat onboarding when the answer is already present. Complete all stages the user requested, without adding an approval stop between reversible local stages. A request for a plan alone stops at the plan. A request for one piece does not produce a whole campaign.
 
-Choose manual or connected input using [sources](references/sources.md). Tools supply evidence, not a different editorial process. Brand Lens remains the owner of maintained knowledge; Content Radar supplies optional other-account research. Do not claim a connector exists because a project has that name.
+Use the [Brand Lens skill workflow](../clipflow-brand/SKILL.md) to turn supplied sources into a working brand brief, or reuse an existing brief. Read [sources](references/sources.md) for evidence handling. No separate Brand Lens service is required. When the user requests actions in Clipflow, follow [the Clipflow handoff](references/clipflow.md) using the tools actually connected to their account.
 
 At each handoff preserve the brand/account, evidence references, source dates, standing, open questions, available assets and selected next action. Keep one working record in the existing content project. Report which stages completed, artifact paths and any material gaps. Readiness and publication permission remain separate.
 
@@ -33,4 +33,4 @@ At each handoff preserve the brand/account, evidence references, source dates, s
 - "Use the existing brand brief and write slot P2 as a Reel."
 - "Review this draft, preserving the deliberate comment-keyword CTA."
 
-Use supplied brand rules and the manual path. When the project has an established writing workflow, follow [project integration](references/project.md). This pack creates planning and writing artifacts; it does not add a scheduler, collector, video editor or publishing integration.
+Use supplied brand rules and the manual path. When the project has an established writing workflow, follow [project integration](references/project.md). The standalone pack creates planning and writing artifacts. A connected Clipflow account can take supported scheduling or publishing actions when requested; the skills do not provide those services themselves.

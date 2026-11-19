@@ -1,7 +1,7 @@
 ---
 name: clipflow-review
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
 description: Review a saved content draft against its brief and evidence, or interpret supplied post results for the next plan. Use for readiness checks and learning in the brand-to-content workflow; style checks do not detect AI authorship or predict performance.
 ---
 
@@ -19,7 +19,7 @@ Read the actual saved draft, its brief and the cited passages. Check:
 - Production and format: required fields, available visuals, attribution, length/technical limits actually verified, and missing dependencies.
 - CTA: deliberate ask preserved, promise supported, destination and fulfilment checked. Familiar wording alone is not a defect. An explicit `none` is valid.
 
-Use pass, needs revision, unknown or not applicable with a concrete reason for each relevant check. Apply requested local fixes and recheck the final revision. Perform any required project checks on the actual draft, not a remembered summary. State which checks ran and which dependencies were unavailable. A missing mandatory check prevents a readiness claim. When copy is complete but a promised asset is unavailable, report `draft complete; fulfilment blocked` as the overall status. Do not headline it as ready while hiding the hold in a later note. Mark the exact draft revision ready only for the requested next step; no automatic publication.
+Use pass, needs revision, unknown or not applicable with a concrete reason for each relevant check. Apply requested local fixes and recheck the final revision. Perform any required project checks on the actual draft, not a remembered summary. State which checks ran and which dependencies were unavailable. A missing mandatory check prevents a readiness claim. When copy is complete but a promised asset is unavailable, report `draft complete; fulfilment blocked` as the overall status. Do not headline it as ready while hiding the hold in a later note. Mark the exact draft revision ready only for the requested next step; publication follows [the Clipflow handoff](../clipflow-content/references/clipflow.md) only when requested and supported by the connected account.
 
 ## Results review
 
@@ -27,4 +27,4 @@ Accept actual exports, screenshots or connected read-only analytics. Record the 
 
 Use same-account, comparable-format medians when justified by the supplied sample. Keep follower ratios separate and note promotion, post age, topic and production differences. A small selected sample can suggest a test, not establish a cause. Never infer retention from views or followers from likes.
 
-Separate observed findings, possible explanations and the next experiment. Feed a scoped recommendation into the existing plan/results record. Do not silently promote it into brand policy or rewrite Brand Lens knowledge. If the user requests only a review, stop with findings and the authorized edits.
+Separate observed findings, possible explanations and the next experiment. Feed a scoped recommendation into the existing plan/results record. Do not silently promote a performance observation into brand policy; record it as evidence or a proposed experiment for the Brand Lens skill workflow. If the user requests only a review, stop with findings and the authorized edits.

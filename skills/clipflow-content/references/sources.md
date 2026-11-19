@@ -8,17 +8,35 @@ Accept approved brand documents, examples of accepted/rejected copy, transcripts
 
 Read an existing brief first. Ask only for missing essentials; an unknown revenue figure does not prevent a piece that makes no revenue claim. Do not browse or purchase research merely to fill optional fields.
 
-## Brand Lens
+## Brand Lens as a skill workflow
 
-Discover live tools and inspect their schemas. A compatible integration may expose profiles, maintained briefs, knowledge, claims, posts, search and notes; use only capabilities actually available in the current session. Prefer profile listing to resolve identity, then knowledge/brief for maintained context, bounded claims/search for a specific question, and the original passage when verifying a claim. Read returned authority, qualifiers, coverage and currentness, including an empty or stale profile. A configured account with posts is not necessarily a reviewed voice profile.
+Use [clipflow-brand](../../clipflow-brand/SKILL.md) to perform the brand analysis
+from project files. Read supplied posts, transcripts, owner instructions and
+existing briefs; extract grounded observations and compile the relevant audience,
+positioning, voice, offers and proof into the shared working record.
 
-If MCP is unavailable, use the deployment's documented CLI/API or a user-supplied export. Do not bind to internal archive files or invent tool parameters. If access fails, state the limitation and continue with supplied evidence when sufficient.
+Keep direct owner instructions separate from observed patterns and inferred
+views. A folder of posts is not necessarily a reviewed voice profile. Preserve
+source locations, dates, coverage and qualifiers. An old offer stays historical
+when the owner supplies a newer correction. Refresh only affected fields and
+record why they changed, without inventing approval for inferred statements.
 
-Carry profile identity and returned revision/digest when available. Maintain a dated consumer snapshot only in the current project. Changes to maintained Brand Lens knowledge are a separate requested workflow, not an automatic side effect of writing a post.
+No separate Brand Lens app, API, database or service is required. If the user
+supplies an existing brand export, treat it as dated input with its provenance,
+not a reason to demand access to the service that produced it.
 
-## Content Radar and other-account research
+## Clipflow
 
-This pack defines the input handoff; it does not ship a Content Radar connector. Inspect available tools and the current product contract before using one. Otherwise accept an export or supplied account/post examples and label coverage.
+Clipflow is the optional connector for account context and requested workspace,
+scheduling or publishing actions. Read [the Clipflow handoff](clipflow.md) when
+using it. A missing connection does not block local brand analysis, planning,
+writing or review. Do not invent tools or assume every account has the same
+capabilities.
+
+## Other-account research
+
+Accept supplied post examples or research exports as reference material.
+Keep them separate from this brand's own experience and proof.
 
 Useful fields: account, post URL/ID, publication and observation dates, format, original hook and available transcript/visual evidence, views, recent comparable-post median, baseline sample size/window, paid/pinned status when known, and missing-data notes. Preserve each row's source and metric units.
 

@@ -2,7 +2,8 @@
 
 Five connected agent skills for understanding a brand, planning content,
 writing a piece and reviewing it. Use your own documents, posts, recordings
-and transcripts. Brand Lens is optional.
+and transcripts. The Brand Lens workflow runs as skills; connect Clipflow when
+you want to take the finished work into your content calendar and publishing.
 
 The same brief and evidence travel through the workflow, so you do not have
 to explain the audience, voice and offer again at every step.
@@ -68,23 +69,32 @@ A deliberate save, reply, follow, booking or comment-keyword CTA is preserved.
 If its promised asset is unfinished, the draft can be complete while fulfilment
 remains blocked. No automatic humanizer rewrites your meaning to raise a score.
 
-## Optional connections
+## Brand Lens skills and the Clipflow connector
 
-- **Brand Lens:** use your deployment's maintained brand evidence through tools,
-  a documented API/CLI or an export. No account or connector is bundled.
-- **Content Radar:** supply other-account research as an export or through tools
-  available in your environment. This repository does not implement a connector.
-- **Your writing system:** existing brand rules, channel writers and required
-  reviews remain in control. See [project integration](skills/clipflow-content/references/project.md).
+- **Brand Lens, as skills:** the included [clipflow-brand](skills/clipflow-brand/SKILL.md)
+  workflow reads your source material, extracts evidence and builds a working
+  picture of your audience, positioning, voice, offers and proof. It runs from
+  files in your project, without a separate Brand Lens service or account.
+  An existing brand brief can be supplied directly when you already have one.
+- **Clipflow, as an optional connector:** connect your Clipflow account to bring
+  the plan and finished content into your workspace. The agent can use available
+  Clipflow tools to create or update posts, schedule them or publish when you
+  request those actions. See [the Clipflow handoff](skills/clipflow-content/references/clipflow.md).
 
-The standalone path needs no API key. Your agent provider and any optional
-services retain their own costs and access requirements.
+Existing brand rules, channel writers and required reviews remain in control.
+See [project integration](skills/clipflow-content/references/project.md).
+The standalone path needs no API key. Your agent provider and any connected
+services retain their own costs and access requirements. This pack does not
+bundle a Clipflow connection or credentials; use the tools exposed by your
+connected account.
 
 ## Scope and validation
 
-This pack plans and writes. It does not publish, schedule, collect analytics,
-render carousels or edit video. It does not predict views or detect AI authorship.
-The private hook archive and internal company material are not included.
+On its own, this pack understands the brand, plans, writes and reviews. It does
+not publish, schedule, collect analytics, render carousels or edit video by
+itself. Connect Clipflow to take supported actions such as scheduling and
+publishing, within your account permissions and the scope you request.
+It does not predict views or detect AI authorship.
 
 The source workflow was exercised on a fictional brand through brand briefing,
 two-slot planning, one draft, review and direct review of a short comment.
@@ -96,8 +106,9 @@ are checked with:
 python3 scripts/validate.py
 ```
 
-Provider UI installation and optional connected services need verification in
-your own environment. A structural check does not prove editorial quality.
+Provider UI installation and Clipflow actions need verification in your own
+environment. Live publishing is not covered by the local checks. A structural
+check does not prove editorial quality.
 
 ## Contributing
 

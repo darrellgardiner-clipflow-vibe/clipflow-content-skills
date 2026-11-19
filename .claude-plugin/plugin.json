@@ -1,7 +1,7 @@
 {
   "name": "clipflow-content",
-  "version": "1.0.0",
-  "description": "Five connected skills for brand understanding, content planning, writing and review.",
+  "version": "1.0.1",
+  "description": "Skill-based Brand Lens analysis, content planning, writing and review, with an optional Clipflow connector for requested scheduling and publishing.",
   "author": {
     "name": "Clipflow"
   },

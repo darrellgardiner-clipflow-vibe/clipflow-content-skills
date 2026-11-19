@@ -7,9 +7,9 @@
     {
       "name": "clipflow-content",
       "source": "./",
-      "description": "Brand-to-content workflows from your own evidence.",
+      "description": "Brand-to-content skills with an optional Clipflow connector.",
       "category": "productivity"
     }
   ],
-  "description": "Brand understanding, content planning, writing and review from your own evidence."
+  "description": "Brand Lens as skills, connected content workflows and optional Clipflow actions."
 }

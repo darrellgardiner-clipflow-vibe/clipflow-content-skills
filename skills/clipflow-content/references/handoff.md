@@ -1,6 +1,6 @@
 # Shared working record
 
-Use the existing content project's brief and plan. Outside an established project, create a user-selected output folder with `brand.md`, `plan.md` and one folder per piece. These are working artifacts, not a second task tracker or a replacement for Brand Lens. Link originals instead of copying transcript archives. Check existing files before writing and preserve unrelated edits.
+Use the existing content project's brief and plan. Outside an established project, create a user-selected output folder with `brand.md`, `plan.md` and one folder per piece. These files hold the working outputs of the Brand Lens skill workflow; reuse them rather than creating a second task tracker. Link originals instead of copying transcript archives. Check existing files before writing and preserve unrelated edits.
 
 Every stage may be entered directly with sufficient inputs. Ask one batched question only for gaps that affect truth, identity or material intent. Record reversible assumptions and keep working on independent parts. Do not demand a fixed sample count when the supplied material is sufficient.
 
@@ -28,7 +28,7 @@ Research from other accounts belongs in a separate reference section. It can sug
 
 ## Plan rows
 
-Each stable slot ID records: account/platform, reader question, purpose, angle and supported answer, evidence IDs, format, available assets, recording/editing needs, effort estimate with basis, timing/timezone if relevant, CTA/destination or explicit `none`, and status/dependencies. Do not confuse a provisional date with a scheduled post.
+Each stable slot ID records: account/platform, reader question, purpose, angle and supported answer, evidence IDs, format, available assets, recording/editing needs, effort estimate with basis, timing/timezone if relevant, CTA/destination or explicit `none`, and status/dependencies. Do not confuse a provisional date with a scheduled post. If a Clipflow action is requested, carry the verified organization/account/channel identifiers and the intended date/time/timezone to the connector handoff; record returned IDs and actual state after the action.
 
 ## Piece handoff
 

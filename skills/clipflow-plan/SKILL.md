@@ -1,8 +1,8 @@
 ---
 name: clipflow-plan
 metadata:
-  version: "1.0.0"
-description: Turn an existing brand brief, source material and production capacity into a feasible content week with traceable slots. Use for what-to-make and weekly content planning; reuse an existing calendar and owner rather than replacing or scheduling it.
+  version: "1.0.1"
+description: Turn an existing brand brief, source material and production capacity into a feasible content week with traceable slots. Use for what-to-make and weekly content planning; reuse an existing calendar and owner, and hand requested scheduling actions to the optional Clipflow connector.
 ---
 
 # Plan a feasible week
@@ -17,3 +17,7 @@ Read [the shared handoff](../clipflow-content/references/handoff.md). Use [sourc
 6. Explain the trade-off when the requested output exceeds capacity. Offer a feasible sequence using existing assets, or identify what must change. Batch recordings with shared setup where useful.
 
 Output: the updated plan, the next piece to make, and unresolved dependencies. If writing is requested, hand the selected slot to [clipflow-write](../clipflow-write/SKILL.md) with its evidence, CTA and preserve rules. Do not impose another approval question before a local draft already requested by the user.
+
+When the request also includes saving the plan or scheduling posts in Clipflow,
+carry the reviewed slots through [the Clipflow handoff](../clipflow-content/references/clipflow.md).
+Planning alone never changes the connected calendar.

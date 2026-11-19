@@ -20,6 +20,7 @@ supplies the speaker's missing proof or opinion. Vary sentence length for
 readable cadence, and label word-count speaking durations as estimates.
 Never include children's names in public copy; use their relationship instead.
 
-Publishing, scheduling, footage editing and changes to maintained brand
-knowledge use their own workflows and authorization. This pack does not
-implement those integrations.
+For requested Clipflow workspace, scheduling or publishing actions, follow
+[the connector handoff](clipflow.md). Use existing authorization and account
+permissions; a draft review alone does not authorize publication. Footage
+editing and other services remain outside this pack.
