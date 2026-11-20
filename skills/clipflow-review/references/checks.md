@@ -1,7 +1,8 @@
 # Checks
 
-Run these in order. The first three matter most: a post that's untrue, doesn't
-sound like them or loses people on the first line isn't worth polishing.
+Run these in order. The first four matter most: a post that's untrue, doesn't
+sound like them, loses people on the first line or says nothing isn't worth
+polishing.
 
 1. **True.** Every fact, number, story, result and quote is in their material.
    Look up the tag. If the post needs something they didn't say, cut it or
@@ -10,25 +11,35 @@ sound like them or loses people on the first line isn't worth polishing.
    property. Cut it rather than flag it.
 2. **Sounds like them.** Read it next to their own words in the transcript or
    past posts. Put back their phrases where you swapped in tidier ones. Cut
-   anything they'd never say.
+   anything they'd never say. A written post made from a recording should read
+   like their writing, not their transcript: no filler words, no false starts,
+   at most one hedge.
 3. **First line works cold.** Someone who's never heard of the business
    understands it and has a reason to keep watching or reading. On-screen hook
    is eight words or fewer.
-4. **Pays off.** The post delivers what the hook promised, with a real example
+4. **Worth reading.** It makes one point, and a stranger finishes it knowing
+   or feeling something they didn't. If it covers the source passage point by
+   point, it's a summary: pick the strongest point and cut the rest. The last
+   line lands on their verdict, instruction or best detail, not a hedge or a
+   recap. Read the last line on its own: if it could end anyone's post, or
+   it's the wrap-up from the end of the video or its description, swap in the
+   strongest line from the passage. Ask yourself whether they'd be glad to
+   have their name on it; if not, rewrite before handing it over.
+5. **Pays off.** The post delivers what the hook promised, with a real example
    or detail.
-5. **An ask that fits the plan.** Preserve a deliberate CTA or a deliberate
+6. **An ask that fits the plan.** Preserve a deliberate CTA or a deliberate
    choice to end with the answer. When there is an ask, give one clear next step, worded the same in the video,
    on screen and in the caption. The place it points to exists (a booking link,
    a DM word they'll answer, a phone number), or it's flagged.
-6. **Can be made.** They have the footage, or the notes say exactly what to
+7. **Can be made.** They have the footage, or the notes say exactly what to
    film. Clip trim points are real timestamps from the transcript. No visual
    they don't have.
-7. **Right length.** Fits the format guide. Nothing repeats.
-8. **Safe to post.** No customer's name, face, health details or other private
+8. **Right length.** Fits the format guide. Nothing repeats.
+9. **Safe to post.** No customer's name, face, health details or other private
    detail without permission noted. No children named.
-9. **Clean copy.** No source tags, notes or brackets inside anything they'll
+10. **Clean copy.** No source tags, notes or brackets inside anything they'll
    paste or say.
-10. **No robot writing.** Sweep for the list below and rewrite any hit.
+11. **No robot writing.** Sweep for the list below and rewrite any hit.
 
 ## Robot writing to remove
 

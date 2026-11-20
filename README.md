@@ -1,18 +1,20 @@
 # Plan next week's content from what you already have online
 
-Give Claude Code or Codex your website or a link to something you've published.
-The five free Clipflow skills work out what you could post next week, where
+Give Claude Code or Codex links to videos you've already filmed, your website
+or something you've published. The five free Clipflow skills work out what you could post next week, where
 each idea comes from and what you need to do first. A single readable page is
 enough to start. Recordings, transcripts and pasted posts work too.
 
 ## Try this after installing
 
 ```text
-Use clipflow-content. My website is [paste your link]. I have an hour for content
-next week. Plan what to post, show me what I can reuse, and draft the first post.
+Use clipflow-content. Here are videos I've already posted: [paste your links].
+Turn them into a week of LinkedIn posts, one a day, and write all five. I have
+about an hour next week.
 ```
 
-If you have a particular account or goal in mind, add it: “For our LinkedIn
+No videos yet? Swap the links for your website and ask for a plan and a first
+draft. If you have a particular account or goal in mind, add it: “For our LinkedIn
 page. We want enquiries about kitchen renovations.” If a post sits behind a
 login, paste its caption or share a screenshot. Other readable links can
 still supply the week.
@@ -22,10 +24,11 @@ make, its source, and the next action. Each proposed post has a reader
 question, a format and an estimate for the work still to do. A draft you ask
 for is in `content/posts/`.
 
-**See what comes back:** Starting from one Clipflow service page, the skills
-followed the FAQs and planned two LinkedIn posts for a 35-minute week. For a founder's
-account, two published articles supplied a text post and a short video to film.
-[Company website example](examples/week-from-a-service-page.md) ·
+**See what comes back:** From three videos already on a founder's YouTube
+channel, the skills wrote a LinkedIn post for each weekday. Reading, checking and
+posting them comes to about 40 of the 60 minutes available. Two published articles supplied a text post
+and a short video to film.
+[YouTube videos example](examples/week-from-youtube-videos.md) ·
 [Founder article example](examples/week-from-public-links.md).
 
 ## Install in Claude Code

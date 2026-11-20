@@ -1,7 +1,7 @@
 ---
 name: clipflow-write
 metadata:
-  version: "2.2.0"
+  version: "2.3.0"
 description: Draft or edit the requested post from a website passage, past post, recording or plan. Use for a first draft, a caption, carousel, talking script, article or email, or to turn real footage into a clip.
 ---
 

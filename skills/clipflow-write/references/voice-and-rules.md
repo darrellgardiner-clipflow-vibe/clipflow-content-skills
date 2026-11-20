@@ -20,8 +20,9 @@ a first guess.
   "your neck's been holding your head up all week", use that over a tidier line.
 - Keep contractions, the odd bit of roughness, local words and their sense of
   humour, if they have one.
-- Keep their hedges and opinions as they said them. "Most of the time" stays
-  "most of the time".
+- Keep their opinions as they said them, and the qualifier that changes the
+  meaning. "Most of the time" stays "most of the time". In a written post, one
+  honest qualifier is plenty; drop the rest (see below).
 - Match how formal they are. A plumber and a lawyer can both be plain, at
   different levels of formality.
 
@@ -37,6 +38,33 @@ a first guess.
   than a bigger one"). Every opinion and every claim about the product, place
   or result is theirs. If a slide needs a second line and they never said one,
   leave it with the headline only.
+
+## A written post made from something they said
+
+People talk and write differently. A transcript is the best record of what
+they think and how they explain it, but it's speech: it circles, restarts,
+hedges every sentence and fills gaps with "like", "sort of", "really",
+"basically" and "obviously". Copying that onto LinkedIn reads as a rambling
+summary, not as them.
+
+If they have written posts or captions, match those for length, rhythm and
+punctuation. If they don't, write it the way a careful person tidies their own
+words before posting:
+
+- Keep the substance: their claim, their example, their numbers, their
+  comparisons and the distinctive phrases a friend would recognise ("chucking
+  old me in the bin", "a fate worse than death").
+- Drop the speech: filler words, false starts, repeated points, "I mean",
+  "right?", "does that make sense?" and stacked hedges. Keep at most one
+  qualifier per post, where it's honest and matters.
+- Stock business phrases they said in passing ("move the needle", "competitive
+  landscape", "at the end of the day") can go. Say the plain thing unless the
+  phrase is the line people would quote.
+- Sentences can be shorter than they speak, but not a staircase of fragments.
+- Don't invent. Tightening their sentence is fine. Adding a sentence they never
+  said is not.
+
+Scripts for them to say out loud are the opposite case: keep the spoken rhythm.
 
 ## When instructions disagree
 
