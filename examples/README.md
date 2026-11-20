@@ -1,6 +1,6 @@
 # Try it on sample material
 
-Try [one service page](week-from-a-service-page.md) or [two published
+Try [three YouTube videos](week-from-youtube-videos.md) or [two published
 articles](week-from-public-links.md) for a link-first run. Both examples
 include the request, the public sources and a proposed week.
 
