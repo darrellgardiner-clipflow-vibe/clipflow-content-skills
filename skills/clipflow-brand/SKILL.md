@@ -1,7 +1,7 @@
 ---
 name: clipflow-brand
 metadata:
-  version: "2.2.0"
+  version: "2.3.0"
 description: Build or refresh a working brand profile from a business website, a founder's public account, posts or supplied files. Use to understand the offer, likely buyers (ICP), usable proof, voice and visual examples before planning or writing.
 ---
 

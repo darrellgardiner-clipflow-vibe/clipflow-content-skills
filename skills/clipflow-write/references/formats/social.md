@@ -6,14 +6,32 @@ Open with the moment, the question or the opinion. Then give the concrete
 example or the reasoning that earns it, then stop. One idea per post. If you
 have three points, that's three posts.
 
+When the source is a recording, pick the single sharpest point in the passage
+before you write: the claim they'd defend, the story with the turn in it, or
+the number that surprises. Build the post around that and leave the rest of
+the passage for another day. Don't walk through the clip in the order they said
+it; that produces a summary of the video, and nobody reads a summary.
+
+Find the best line they said about that point, usually their verdict, their
+instruction or the detail that sticks, and end on it, tightened if needed.
+That gives the post a real ending without you adding a line of your own.
+
+The way they wrapped up the video, and the summary in its description, are
+usually the weakest lines to borrow: they were written to close a whole video,
+not this point. Look in the middle of the passage instead. For a physio, "Your
+neck's been holding your head up all week, so give it ten minutes on Friday"
+beats "Anyway, look after yourselves out there".
+
 - Write it how they talk. Short paragraphs are fine for reading on a phone, but
   don't break every sentence onto its own line as a staircase of punchlines.
 - A personal story has to be one they told. Expertise doesn't need a made-up
   vulnerable moment.
-- Keep their uncertainty. "I think", "in our experience" and "most, not all"
-  make a post more believable.
-- End on the point, or the ask if the post has one. Skip "Thoughts?" and
-  "Agree?" unless it's how they always sign off.
+- Keep the uncertainty that's honest. One "I think" or "in our experience"
+  makes a post believable; one in every paragraph makes it sound unsure of
+  itself. A recording usually has far more hedges than a written post needs.
+- End on the point, or the ask if the post has one. Never end on a hedge, a
+  summary of the post or a soft line like "it depends where you are". Skip
+  "Thoughts?" and "Agree?" unless it's how they always sign off.
 
 Around 100 to 250 words suits most business text posts. Shorter is fine.
 

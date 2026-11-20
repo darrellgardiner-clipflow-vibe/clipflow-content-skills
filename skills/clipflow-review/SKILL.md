@@ -1,7 +1,7 @@
 ---
 name: clipflow-review
 metadata:
-  version: "2.2.0"
+  version: "2.3.0"
 description: Check a drafted post, script, caption or carousel before the owner sees it, fix what fails, and note what only the owner can confirm. Also reads post results the owner shares (screenshots, exports or numbers) and turns them into what to try next week. Use after writing anything, when someone asks "is this ready" or "is this any good", or when they share how their posts did.
 ---
 

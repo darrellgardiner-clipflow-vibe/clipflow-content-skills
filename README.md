@@ -25,8 +25,8 @@ question, a format and an estimate for the work still to do. A draft you ask
 for is in `content/posts/`.
 
 **See what comes back:** From three videos already on a founder's YouTube
-channel, the skills wrote a LinkedIn post for each weekday. Checking and posting
-them came to about 50 of the 60 minutes available. Two published articles supplied a text post
+channel, the skills wrote a LinkedIn post for each weekday. Reading, checking and
+posting them comes to about 40 of the 60 minutes available. Two published articles supplied a text post
 and a short video to film.
 [YouTube videos example](examples/week-from-youtube-videos.md) ·
 [Founder article example](examples/week-from-public-links.md).

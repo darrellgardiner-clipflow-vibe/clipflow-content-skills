@@ -1,7 +1,7 @@
 ---
 name: clipflow-plan
 metadata:
-  version: "2.2.0"
+  version: "2.3.0"
 description: Choose what to post and what to make first for a specific week from the owner's website, past posts, recordings and existing calendar. Use for a feasible content plan, a recurring posting rhythm or ideas supported by material the owner already has.
 ---
 

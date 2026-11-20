@@ -1,7 +1,7 @@
 ---
 name: clipflow-content
 metadata:
-  version: "2.2.0"
+  version: "2.3.0"
 description: Plan next week's content from a business website, a founder's public posts, or supplied recordings and files. Use when someone shares a link and asks what to post, what to reuse, what to make first, or wants the plan and drafts together.
 ---
 
